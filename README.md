@@ -1,4 +1,3 @@
-# ntj.github.io
-My blog
+# My blog
 
 https://ntj.github.io/
