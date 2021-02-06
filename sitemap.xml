@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>/four/</loc>
+    <lastmod>2021-02-06T20:06:28+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/posts/libreoffice/</loc>
+    <lastmod>2021-01-31T20:06:45+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/posts/</loc>
+    <lastmod>2021-01-31T20:06:45+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/</loc>
+    <lastmod>2021-01-31T20:06:45+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/posts/sterne/</loc>
+    <lastmod>2021-01-29T20:06:45+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/posts/first-post/</loc>
+    <lastmod>2021-01-28T20:06:45+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
+  </url>
+  
+</urlset>
