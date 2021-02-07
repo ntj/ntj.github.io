@@ -13,4 +13,7 @@ img[alt=Polygon] {
 img[alt=Screenshot] {
     width: 48%;
     box-shadow: none;
+    margin-right: 0.1em;
+    margin-left: 0.1em;
+    margin-bottom: 0.2em;
 }
