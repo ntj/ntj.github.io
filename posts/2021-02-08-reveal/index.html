@@ -1,0 +1,175 @@
+<!doctype html>
+
+<html lang="en-us">
+
+<head>
+  <title>Präsentationen in HTML erstellen - Trust in code</title>
+  <meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<meta name="description" content="Thoughts on tech by Antje Kazimiers" />
+<meta name="author" content="Antje Kazimiers" /><meta property="og:title" content="Präsentationen in HTML erstellen" />
+<meta property="og:description" content="Vor einigen Jahren habe ich einen Vortrag gesehen, in dem der Redner seine Folien mit reveal.js erstellt hatte. Reveal.js ist ein JavaScript-Framework. welches es erlaubt, die Folien für eine Präsentation in HTML zu schreiben. Die gesamte Präsentation ist quasi in einer einzigen HTML-Datei zu finden. Das finde ich großartig. Da ich Erfahrung mit LaTeX und Markdown habe, ist mir die Idee, Dokumente aus Textdateien zu generieren sehr vertraut.
+Ausgehend von der offiziellen Dokumentation habe ich mir ein Reveal." />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="/posts/2021-02-08-reveal/" />
+<meta property="article:published_time" content="2021-02-08T00:00:00+01:00" />
+<meta property="article:modified_time" content="2021-02-08T00:00:00+01:00" />
+
+<meta name="twitter:card" content="summary"/>
+<meta name="twitter:title" content="Präsentationen in HTML erstellen"/>
+<meta name="twitter:description" content="Vor einigen Jahren habe ich einen Vortrag gesehen, in dem der Redner seine Folien mit reveal.js erstellt hatte. Reveal.js ist ein JavaScript-Framework. welches es erlaubt, die Folien für eine Präsentation in HTML zu schreiben. Die gesamte Präsentation ist quasi in einer einzigen HTML-Datei zu finden. Das finde ich großartig. Da ich Erfahrung mit LaTeX und Markdown habe, ist mir die Idee, Dokumente aus Textdateien zu generieren sehr vertraut.
+Ausgehend von der offiziellen Dokumentation habe ich mir ein Reveal."/>
+
+<meta name="generator" content="Hugo 0.80.0" />
+    
+
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/8.0.1/normalize.min.css" integrity="sha256-l85OmPOjvil/SOvVt3HnSSjzF1TUMyT9eV0c2BzEGzU=" crossorigin="anonymous" />
+  <link rel="stylesheet" href="fontawesome/css/all.min.css" />
+  
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto+Slab|Ruda" />
+  
+  
+  <link rel="stylesheet" type="text/css" href="/css/styles.css" /></head>
+
+<body>
+  <div id="container">
+    <header>
+      <h1>
+                <a href="/">Trust in code</a>
+            </h1>
+
+      <ul id="social-media">
+             <li>
+               <a href="https://github.com/ntj" title="GitHub">
+               <i class="fab fa-github fa-lg"></i>
+               </a>
+             </li>
+             <li>
+               <a href="https://twitter.com/mrs_nextmatch" title="Twitter">
+               <i class="fab fa-twitter fa-lg"></i>
+               </a>
+             </li>
+      </ul>
+      
+      <p><em>Thoughts on tech by Antje Kazimiers</em></p>
+      
+    </header>
+
+    
+<nav>
+    <ul>
+        
+    </ul>
+</nav>
+
+
+    <main>
+
+
+
+
+<article>
+
+    <h1>Präsentationen in HTML erstellen</h1>
+
+    
+      <aside>
+    <ul>
+        <li>
+            <time class="post-date" datetime="2021-02-08T00:00:00&#43;01:00">Feb 8, 2021</time>
+        </li>
+        
+        
+
+        
+
+        <li>2 minutes read</li>
+    </ul>
+</aside>
+
+    
+
+    
+<div class="featured_image">
+    <a href="/posts/2021-02-08-reveal/" title="Präsentationen in HTML erstellen">
+        <img src="">
+    </a>
+</div>
+
+
+
+    <p>Vor einigen Jahren habe ich einen Vortrag gesehen, in dem der Redner seine Folien mit <a href="https://revealjs.com/">reveal.js</a> erstellt hatte. Reveal.js ist ein JavaScript-Framework. welches es erlaubt, die Folien für eine Präsentation in HTML zu schreiben. Die gesamte Präsentation ist quasi in einer einzigen HTML-Datei zu finden. Das finde ich großartig. Da ich Erfahrung mit LaTeX und Markdown habe, ist mir die Idee, Dokumente aus Textdateien zu generieren sehr vertraut.</p>
+<p>Ausgehend von der offiziellen Dokumentation habe ich mir ein <a href="https://gitlab.com/ntj/my-reveal">Reveal.JS Starter Kit</a> gebaut. Es gibt hierfür auch eine <a href="https://ntj.gitlab.io/my-reveal/">Demo</a>. So sehen die Folien aus:</p>
+<p><img src="/reveal0.png" alt="Screenshot">
+<img src="/reveal1.png" alt="Screenshot">
+<img src="/reveal3.png" alt="Screenshot">
+<img src="/reveal2.png" alt="Screenshot"></p>
+<p>In der Datei <a href="https://gitlab.com/ntj/my-reveal/-/blob/master/public/index.html">index.html</a> werden die einzelnen Folien folgendermaßen hinterlegt:</p>
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-html" data-lang="html">    &lt;<span style="color:#f92672">section</span> <span style="color:#a6e22e">data-background-color</span><span style="color:#f92672">=</span><span style="color:#e6db74">&#34;rebeccapurple&#34;</span>&gt;
+      &lt;<span style="color:#f92672">h2</span> <span style="color:#a6e22e">class</span><span style="color:#f92672">=</span><span style="color:#e6db74">&#34;r-fit-text&#34;</span>&gt;Unordered Lists&lt;/<span style="color:#f92672">h2</span>&gt;
+      &lt;<span style="color:#f92672">ul</span>&gt;
+          &lt;<span style="color:#f92672">li</span> <span style="color:#a6e22e">class</span><span style="color:#f92672">=</span><span style="color:#e6db74">&#34;fragment&#34;</span>&gt;Some&lt;/<span style="color:#f92672">li</span>&gt;
+          &lt;<span style="color:#f92672">li</span> <span style="color:#a6e22e">class</span><span style="color:#f92672">=</span><span style="color:#e6db74">&#34;fragment&#34;</span>&gt;interesting&lt;/<span style="color:#f92672">li</span>&gt;
+          &lt;<span style="color:#f92672">li</span> <span style="color:#a6e22e">class</span><span style="color:#f92672">=</span><span style="color:#e6db74">&#34;fragment&#34;</span>&gt;facts&lt;/<span style="color:#f92672">li</span>&gt;
+      &lt;/<span style="color:#f92672">ul</span>&gt;
+    &lt;/<span style="color:#f92672">section</span>&gt;
+</code></pre></div><p>Mit HTML-Standardelementen wie <code>&lt;h2&gt;&lt;/h2&gt;</code> und <code>&lt;ul&gt;&lt;/ul&gt;</code> können also Folienüberschriften und
+Aufzählungen generiert werden, auch die Einbindung von Bildern ist möglich:</p>
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-html" data-lang="html">&lt;<span style="color:#f92672">section</span> <span style="color:#a6e22e">data-background-color</span><span style="color:#f92672">=</span><span style="color:#e6db74">&#34;DarkSlateGray&#34;</span>&gt;
+    &lt;<span style="color:#f92672">h2</span>&gt;Pictures&lt;/<span style="color:#f92672">h2</span>&gt;
+    &lt;<span style="color:#f92672">div</span> <span style="color:#a6e22e">class</span><span style="color:#f92672">=</span><span style="color:#e6db74">&#34;slide-pictures-container few&#34;</span>&gt;
+        &lt;<span style="color:#f92672">div</span> <span style="color:#a6e22e">class</span><span style="color:#f92672">=</span><span style="color:#e6db74">&#34;slide-picture&#34;</span>&gt;
+            &lt;<span style="color:#f92672">img</span> <span style="color:#a6e22e">src</span><span style="color:#f92672">=</span><span style="color:#e6db74">&#34;files/tick.jpg&#34;</span> /&gt;&lt;<span style="color:#f92672">br</span>/&gt;
+            &lt;<span style="color:#f92672">div</span> <span style="color:#a6e22e">class</span><span style="color:#f92672">=</span><span style="color:#e6db74">&#34;image-caption&#34;</span>&gt;
+                CC BY-NC 2.0 NIH Image Gallery
+            &lt;/<span style="color:#f92672">div</span>&gt;
+        &lt;/<span style="color:#f92672">div</span>&gt;
+        &lt;<span style="color:#f92672">div</span> <span style="color:#a6e22e">class</span><span style="color:#f92672">=</span><span style="color:#e6db74">&#34;slide-picture&#34;</span>&gt;
+            &lt;<span style="color:#f92672">img</span> <span style="color:#a6e22e">src</span><span style="color:#f92672">=</span><span style="color:#e6db74">&#34;files/zebrafish.jpg&#34;</span> /&gt;&lt;<span style="color:#f92672">br</span>/&gt;
+            &lt;<span style="color:#f92672">div</span> <span style="color:#a6e22e">class</span><span style="color:#f92672">=</span><span style="color:#e6db74">&#34;image-caption&#34;</span>&gt;
+                CC BY-NC 2.0 NIH Image Gallery
+            &lt;/<span style="color:#f92672">div</span>&gt;
+        &lt;/<span style="color:#f92672">div</span>&gt;
+    &lt;/<span style="color:#f92672">div</span>&gt;
+&lt;/<span style="color:#f92672">section</span>&gt;
+</code></pre></div><p>Mit zusätzlichen HTML-Attributen wie <code>fragment</code> können einzelne Teile der Präsentation auch nach
+einem Klick hinzugefügt werden, so wie es in LibreOffice und PowerPoint möglich ist.</p>
+<p>Ich glaube, dieses Framework sollte bekannter werden. Es bietet die ideale Umgebung, Schülerinnen und Schülern HTML und CSS nahe zu bringen. Präsentationen werden im Schulalltag und darüber hinaus sehr oft erstellt. Ich denke, RevealJS bietet einen guten Einstieg in die Welt der Programmierung, weil damit der Umgang mit dem Editor, mit der Kommandozeile und einer Ausgabe, die hier dann im Browser stattfindet, geübt werden kann.</p>
+
+
+</article>
+
+
+<section class="post-nav">
+    <ul>
+        
+        <li>
+            <a href="/posts/2021-02-07-fosdem/"><i class="fa fa-chevron-circle-left"></i> FOSDEM&#39;21</a>
+        </li>
+        
+        
+    </ul>
+</section>
+  
+    
+    
+  
+
+
+
+
+
+</main>
+    <footer>
+        <h6> |
+            Rendered by <a href="https://gohugo.io" title="Hugo">Hugo</a> |
+            <a href="index.xml">Subscribe </a></h6>
+    </footer>
+</div>
+<script src="/js/scripts.js"></script>
+
+
+</body>
+
+</html>
+

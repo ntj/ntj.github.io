@@ -3,33 +3,38 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/posts/2021-02-07-fosdem/</loc>
-    <lastmod>2021-02-07T11:34:39+01:00</lastmod>
+    <loc>/posts/</loc>
+    <lastmod>2021-02-08T00:00:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>/posts/</loc>
-    <lastmod>2021-02-07T11:34:39+01:00</lastmod>
+    <loc>/posts/2021-02-08-reveal/</loc>
+    <lastmod>2021-02-08T00:00:00+01:00</lastmod>
   </url>
   
   <url>
     <loc>/</loc>
-    <lastmod>2021-02-07T11:34:39+01:00</lastmod>
+    <lastmod>2021-02-08T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/posts/2021-02-07-fosdem/</loc>
+    <lastmod>2021-02-07T00:00:00+01:00</lastmod>
   </url>
   
   <url>
     <loc>/posts/2021-02-06-sterne/</loc>
-    <lastmod>2021-02-06T20:06:45+01:00</lastmod>
+    <lastmod>2021-02-06T00:00:00+01:00</lastmod>
   </url>
   
   <url>
     <loc>/posts/2021-02-05-libreoffice/</loc>
-    <lastmod>2021-02-05T20:06:45+01:00</lastmod>
+    <lastmod>2021-02-05T00:00:00+01:00</lastmod>
   </url>
   
   <url>
     <loc>/posts/2021-02-04-first/</loc>
-    <lastmod>2021-02-04T20:06:45+01:00</lastmod>
+    <lastmod>2021-02-04T00:00:00+01:00</lastmod>
   </url>
   
   <url>
