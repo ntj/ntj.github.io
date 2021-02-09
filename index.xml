@@ -6,10 +6,19 @@
    <description>Recent content on Trust in code</description>
    <generator>Hugo -- gohugo.io</generator>
    <language>en-us</language>
-   <lastBuildDate>Mon, 08 Feb 2021 00:00:00 +0100</lastBuildDate>
+   <lastBuildDate>Tue, 09 Feb 2021 00:00:00 +0100</lastBuildDate>
    
        <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
    
+   
+     <item>
+       <title>Die Mailingliste der FSFE</title>
+       <link>/posts/fsfe/</link>
+       <pubDate>Tue, 09 Feb 2021 00:00:00 +0100</pubDate>
+       
+       <guid>/posts/fsfe/</guid>
+       <description>&lt;p&gt;Um das Jahr 2010 herum habe ich geschaut, was über das Studium hinaus in Sachen Informatik und Technik noch so passiert. Seit dieser Zeit abonniere ich die &lt;a href=&#34;(https://lists.fsfe.org/mailman/listinfo/fsfe-de)&#34;&gt;deutschsprachige Mailingliste&lt;/a&gt; der&lt;a href=&#34;https://fsfe.org/&#34;&gt;Free Software Foundation Europe&lt;/a&gt;.&lt;/p&gt;&lt;p&gt;Die Diskussionen drehen sich um rechtliche, technische und ethische Aspekte freier Software. Auch auf die Frage &amp;ldquo;Kennt ihr ein Tool, welches das und das tut?&amp;rdquo; gibt es so gut wie immer eine hilfreiche Antwort.&lt;/p&gt;&lt;p&gt;Manchmal werden die Debatten auch politischer und philosophischer und helfen, die eigene Argumentation in Sachen freier Software und Open Source zu schärfen. Die Diskutanten pflegen dabei einen guten Stil und Antworten sind oft auch sehr ausführlich.&lt;/p&gt;&lt;p&gt;&lt;img src=&#34;/fsfe.png&#34; alt=&#34;FSFE&#34;&gt;&lt;/p&gt;&lt;p&gt;Das gute alte Medium Email wird immer noch rege genutzt. Und längere Ausführungen im Textformat sind eine ganz angenehme Abwechslumg zu den Kurzinfos auf Twitter &amp;amp; Co.&lt;/p&gt;</description>
+     </item>
    
      <item>
        <title>Präsentationen in HTML erstellen</title>
