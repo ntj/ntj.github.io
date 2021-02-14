@@ -11,6 +11,15 @@
    
    
      <item>
+       <title>Last.fm über die Zeit</title>
+       <link>/posts/2021-02-14-lastfm/</link>
+       <pubDate>Sat, 13 Feb 2021 00:00:00 +0100</pubDate>
+       
+       <guid>/posts/2021-02-14-lastfm/</guid>
+       <description>&lt;p&gt;Gestern Nacht habe ich mein altes &lt;a href=&#34;https://www.last.fm/user/kaarslichtje&#34;&gt;last.fm&lt;/a&gt;-Profil herausgekramt. In den Nullerjahren und danach, vielleicht schon über einen Zeitraum von 10 Jahren, war last.fm ein Begleiter meines Lebens. Mit anderen teilen, welche Musik man hört, die Webseite öffnen und das kleine Icon neben dem Namen zeigt dir, ob die Leute, die du kennst, gerade wach sind, also Musik hören. Heute kann man sein ganzes Leben im Internet abbilden, mit den Twitter, Instagram und Co - früher hatte man mit last.fm die Möglichkeit, sich über Musik, die man hört, auszudrücken und eine Präsenz zu erstellen, die ein Teil von einem ist, aber eben nicht alles. Auch heute noch sind mir soziale Netzwerke sympathischer, die die Möglichkeiten einschränken, damit man mit ihnen etwas Neues, Interessantes schaffen kann.&lt;/p&gt;&lt;p&gt;Die Oberfläche der Webseite hatte sich über die Jahre immer einmal geändert und bestimmt mit jeder Änderung gab es auch eine Gruppe, die sich die alte Webseite zurückgewünscht hat.&lt;/p&gt;&lt;p&gt;Irgendwann gab&amp;rsquo;s dann eine Änderung und seit dem kann man sich sehr komfortabel durch alle Jahre klicken, die das Profil existiert, durch die Monate und genau schauen, was man an dem und dem Tag im Jahre XX gehört hat. Ja klar, die Daten wurden erfasst und gespeichert, aber die Zugänglichkeit der Informationen für jedermann hat sich auf jeden Fall geändert.&lt;/p&gt;&lt;p&gt;Nun nutze ich last.fm nicht mehr, aber wie ist es mit Twitter, was ich schon recht häufig verwende? Wird mit den Informationen, die ich dort heute hinterlasse, morgen auch etwas möglich sein, was ich heute so nicht vorhersehen kann? Wie gut lässt sich die Twitter API heute schon nutzen, um Sichten zu erstellen, die mir dann wiederum verborgen sind, weil sie nicht öffentlich sind?&lt;/p&gt;&lt;p&gt;Wenn man wie ich nicht auf soziale Netzwerke verzichten möchte, dann ist Datensparsamkeit bestimmt eine gute Wahl. Und immer mal das Netzwerk wechseln vielleicht auch.&lt;/p&gt;&lt;p&gt;Dass bei last.fm dann auch eine sehr komfortable Integration der Musikvideos zu den Songs eingebaut wurde, tröstet übrigens. Schön, nie gesehene Videos zu alten und neuen Songs darüber kennenzulernen!&lt;/p&gt;&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;  &lt;iframe src=&#34;https://www.youtube.com/embed/J8d2UXKPMD4&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;&lt;/div&gt;</description>
+     </item>
+   
+     <item>
        <title>Wikipedia-Artikel schreiben</title>
        <link>/posts/2021-02-13-wikipedia/</link>
        <pubDate>Sat, 13 Feb 2021 00:00:00 +0100</pubDate>
