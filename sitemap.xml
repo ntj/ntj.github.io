@@ -138,6 +138,14 @@
   </url>
   
   <url>
+    <loc>/pages/about/</loc>
+  </url>
+  
+  <url>
+    <loc>/pages/</loc>
+  </url>
+  
+  <url>
     <loc>/tags/</loc>
   </url>
   
