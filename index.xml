@@ -6,7 +6,7 @@
    <description>Recent content on Trust in code</description>
    <generator>Hugo -- gohugo.io</generator>
    <language>en-us</language>
-   <lastBuildDate>Thu, 25 Feb 2021 00:00:00 +0100</lastBuildDate>
+   <lastBuildDate>Fri, 26 Feb 2021 00:00:00 +0100</lastBuildDate>
    
        <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
    
@@ -14,7 +14,7 @@
      <item>
        <title>Mit Open-Source Tools zeichnen</title>
        <link>/posts/2022-02-26-zeichnen/</link>
-       <pubDate>Thu, 25 Feb 2021 00:00:00 +0100</pubDate>
+       <pubDate>Fri, 26 Feb 2021 00:00:00 +0100</pubDate>
        
        <guid>/posts/2022-02-26-zeichnen/</guid>
        <description>&lt;p&gt;In letzter Zeit kommt es oft dazu, dass ich Vektorgrafiken erstelle: kleine Diagramme, die Software-Architekturen und Komponenten von Systemen visualisieren oder eben auch Mockups, die die Oberfläche einer Anwendung skizzieren. Ich habe da nun einen Satz Tools, den hierfür verwende. Es wäre ideal, wenn es hierfür genau ein Tool gebe, auf dass ich mich immer verlassen kann und was die Stärken der anderen kombiniert. Aber bisher wechsele ich zwischen den folgenden Tools hin und her.&lt;/p&gt;&lt;h3 id=&#34;drawiohttpsappdiagramsnet&#34;&gt;&lt;a href=&#34;https://app.diagrams.net/&#34;&gt;Draw.io&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;Mit draw.io kann man visuell sehr ansprechenede Diagramme erstellen. Die voreingestellte Farbgebung und Schrift passt einfach. Es gibt viele Elemente zur Auswahl, sodass man z.B. eine Tabelle oder den Zylinder für eine Datenbank nicht selbst zeichnen muss. Das Einbinden und Anpassen externer Vektorgrafiken, z.B. von &lt;a href=&#34;https://fontawesome.com/&#34;&gt;FontAwesome&lt;/a&gt; gestaltete sich aber als schwierig, also wechselte ich für diese Aufgabe zu Inkscape.&lt;/p&gt;&lt;h3 id=&#34;diahttpdia-installerde&#34;&gt;&lt;a href=&#34;http://dia-installer.de/&#34;&gt;Dia&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;Dia verwende ich für die klassischen Entity-RelationShip-Diagramme z.B.. Man muss nur auf das Element für die Beziehung klicken und die Kardinalitäten in einem Formular eintragen und die Beschriftung wird automatisch ergänzt.&lt;/p&gt;&lt;h3 id=&#34;inkscapehttpsinkscapeorgde&#34;&gt;&lt;a href=&#34;https://inkscape.org/de/&#34;&gt;Inkscape&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;Inkscape ist ein klassisches Vektorgrafikprogramm und eine Hilfe, wenn ich an die Grenzen der anderen Tools stoße.&lt;/p&gt;&lt;h2 id=&#34;mockups-zeichnen&#34;&gt;Mockups zeichnen&lt;/h2&gt;&lt;p&gt;Mockups lassen sich natürlich ebenso in draw.io erstellen, aber noch besser ist es, wenn man ein Mockup-Tool verwenden kann, welches Standard-Elemente wie Buttons, Tabs, Tabellen bereitstellt. &lt;a href=&#34;https://jdittrich.github.io/quickMockup/&#34;&gt;QuickMockup&lt;/a&gt; funktionert für das schnelle Erstellen eines Mockups sehr gut (wenn auch nicht als Vektorgrafik).&lt;/p&gt;&lt;p&gt;Und vielleicht habe ich mit dem &lt;a href=&#34;https://pencil.evolus.vn/&#34;&gt;Pencil Project&lt;/a&gt; eine Anwendung gefunden, mit der ich nicht nur ein sondern mehrere Anwendungsszenarien abbilden kann.&lt;/p&gt;&lt;p&gt;&lt;em&gt;This is day 16 of my &lt;a href=&#34;https://100daystooffload.com/&#34;&gt;#100daystoffload&lt;/a&gt; series, a challenge to write 100 blog posts in a year.&lt;/em&gt;&lt;/p&gt;</description>
