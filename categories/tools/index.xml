@@ -6,10 +6,19 @@
    <description>Recent content in Tools on Trust in code</description>
    <generator>Hugo -- gohugo.io</generator>
    <language>en-us</language>
-   <lastBuildDate>Fri, 26 Feb 2021 00:00:00 +0100</lastBuildDate>
+   <lastBuildDate>Sat, 27 Feb 2021 14:07:32 +0100</lastBuildDate>
    
        <atom:link href="/categories/tools/index.xml" rel="self" type="application/rss+xml" />
    
+   
+     <item>
+       <title>Vorträge vorbereiten</title>
+       <link>/posts/2021-02-27-talk/</link>
+       <pubDate>Sat, 27 Feb 2021 14:07:32 +0100</pubDate>
+       
+       <guid>/posts/2021-02-27-talk/</guid>
+       <description>&lt;p&gt;Vorträge und Seminare halte ich eigentlich ganz gern. Zu Schulzeiten lief meine Vorbereitung so ab:&lt;/p&gt;&lt;ol&gt;&lt;li&gt;Ein Thema wählen, von dem ich richtig begeistert bin, wie z.B. der Künstler Picasso&lt;/li&gt;&lt;li&gt;In die Bibliothek gehen und alle Bücher ausleihen, die für das Thema interessant sind&lt;/li&gt;&lt;li&gt;Alles lesen, u.U. mehrmals, ein paar Stichpunkte machen&lt;/li&gt;&lt;li&gt;Folien erstellen, ein bißchen üben und viel viel lesen&lt;/li&gt;&lt;li&gt;Vortrag halten, in dem man einfach sein ganzes Wissen heraussprudelt&lt;/li&gt;&lt;/ol&gt;&lt;p&gt;Das funktioniert natürlich jetzt nicht mehr so gut. So viel Zeit will man nicht investieren, so viel gibt es auch nicht zu lesen. Und um im Sprechen souverän zu sein, muss man das Sprechen üben.&lt;/p&gt;&lt;p&gt;Also habe ich nun einen anderen Weg, wie ich nun Vorträge und Seminare vorbereite:&lt;/p&gt;&lt;ol&gt;&lt;li&gt;Folien erstellen&lt;/li&gt;&lt;li&gt;Zu den Folien sprechen und das Ganze mit Google Voice Typing in ein Google Document schreiben lassen, der Text dient später als Notizen&lt;/li&gt;&lt;li&gt;Diese Notizen ein oder zweimal laut vorlesen&lt;/li&gt;&lt;li&gt;Sobald man sich sicher genug fühlt, den Vortrag in Abschnitten mit &lt;a href=&#34;https://obsproject.com/de/download&#34;&gt;OBS Studio&lt;/a&gt; mitschneiden. So kann man sich sofort anhören, wie man klingt, weiß, wieviel Zeit man in Anspruch nimmt und Aufnahmen wie diese kann man immer gut gebrauchen&lt;/li&gt;&lt;li&gt;U.U. die Audiospur zu dem Webcast nochmalig einsprechen&lt;/li&gt;&lt;li&gt;Vortrag einmal vor einer anderen Person probehalten&lt;/li&gt;&lt;/ol&gt;&lt;p&gt;Das klingt sehr aufwändig, Vorträge sollten aber auch gut vorbereitet sein und die Vorbereitung kostet Zeit. Natürlich kann man einzelne Schritte auch abkürzen. Aber gerade die Nutzung von Voice Typing bring mich dazu, sehr zeitig schon mit dem Sprechen zu beginnen und die Notizen entsprechen meiner gesprochenen Sprache.&lt;/p&gt;&lt;p&gt;Noch besser wäre es, hätte ich ein Open-Source Tool, welches ich statt Google Voice Typing verwenden könnte.&lt;/p&gt;&lt;p&gt;&lt;em&gt;This is day 17 of my &lt;a href=&#34;https://100daystooffload.com/&#34;&gt;#100daystooffload&lt;/a&gt; series, a challenge to write 100 blog posts in a year.&lt;/em&gt;&lt;/p&gt;</description>
+     </item>
    
      <item>
        <title>Mit Open-Source Tools zeichnen</title>
