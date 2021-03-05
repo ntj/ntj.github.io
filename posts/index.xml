@@ -6,10 +6,19 @@
    <description>Recent content in Posts on Trust in code</description>
    <generator>Hugo -- gohugo.io</generator>
    <language>en-us</language>
-   <lastBuildDate>Sat, 27 Feb 2021 14:07:32 +0100</lastBuildDate>
+   <lastBuildDate>Fri, 05 Mar 2021 18:05:42 +0100</lastBuildDate>
    
        <atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
    
+   
+     <item>
+       <title>Der Beaker Browser</title>
+       <link>/posts/2021-03-05-beaker/</link>
+       <pubDate>Fri, 05 Mar 2021 18:05:42 +0100</pubDate>
+       
+       <guid>/posts/2021-03-05-beaker/</guid>
+       <description>&lt;p&gt;Die Pandemie und der Lockdown setzen mir zu. Ich gehöre nicht zu den Menschen, die allen Grund haben, wirklich gestresst zu sein. Sei es, weil sie ihre Kinder tagsüber im Homeschooling betreuen müssen. Auch ist mein Job Pandemie-sicher und ich kann von zuhause aus produktiv sein. Trotzdem ist die Situation schwierig für mich.&lt;/p&gt;&lt;p&gt;Aber es gibt auch eine gute Seite und das ist, dass Communities wie die Freie-Software-Bewegung, die sich in anderen Städten in normalen Zeiten in einer Kneipe treffen, jetzt online-Abende durchführen und man also deutschlandweit dabei sein kann.&lt;/p&gt;&lt;p&gt;In einem dieser Treffen habe ich den &lt;a href=&#34;https://beakerbrowser.com/&#34;&gt;Beaker Browser&lt;/a&gt; kennengelernt. Es geht darum, das Internet neu zu erfinden. Dass Kommunikation über zentrale Server passiert, von denen wir Seiten abrufen oder die die Möglichkeit haben, Kommunikation mitzuschneiden, ist etwas, was nicht so sein muss. Eine Alternative ist &lt;a href=&#34;https://de.wikipedia.org/wiki/Peer-to-Peer&#34;&gt;P2P&lt;/a&gt;, jeder hostet die Information, die er oder sie verbreiten will, selbst.&lt;/p&gt;&lt;p&gt;Interessant auf jeden Fall und ich habe dort auch ein &lt;a href=&#34;hyper://c9110fb43bc5c2b9499567effb881c64575f16d71605c907666407890ebdab1a/&#34;&gt;Profil&lt;/a&gt;. Die URLs in der Beaker-Welt starten mit einem &lt;code&gt;hyper://&lt;/code&gt; &amp;ndash; sehr sympatisch.&lt;/p&gt;&lt;p&gt;Ich bin gespannt, wohin es mit dieser Technologie weiter geht. Aber vermutlich sollte ich einfach dran mitschreiben. :)&lt;/p&gt;&lt;p&gt;&lt;em&gt;This is day 18 of my &lt;a href=&#34;https://100daystooffload.com/&#34;&gt;#100daystooffload&lt;/a&gt; series, a challenge to write 100 blog posts in a year.&lt;/em&gt;&lt;/p&gt;</description>
+     </item>
    
      <item>
        <title>Vorträge vorbereiten</title>
