@@ -8,7 +8,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <meta name="description" content="Thoughts on tech by Antje Kazimiers" />
 <meta name="author" content="Antje Kazimiers" /><meta property="og:title" content="Tabellen anzeigen in Flask || Django" />
-<meta property="og:description" content="Es gab eine Zeit, in der ich beruflich einige Flask-Applikationen geschrieben habe und auch eine Django-Anwendung war dabei. Flask und Django eint, dass es sich dabei um Frameworks handelt, mit denen man Webapplikationen unter der Nutzung von Python als serverseitige Sprache erstellen kann. Da drängt sich die Frage auf, wann sollte man Flask und wann Django verwenden? Aber die Antwort darauf füllt eher einen weiteren Blogartikel.
+<meta property="og:description" content="Es gab eine Zeit, in der ich einige Flask-Applikationen geschrieben habe und auch eine Django-Anwendung war dabei. Flask und Django eint, dass es sich dabei um Frameworks handelt, mit denen man Webapplikationen unter der Nutzung von Python als serverseitige Sprache erstellen kann. Da drängt sich die Frage auf, wann sollte man Flask und wann Django verwenden? Aber die Antwort darauf füllt eher einen weiteren Blogartikel.
 Neben HTML, CSS und JavaScript kommt bei Flask und Django auch Jinja2 zum Einsatz." />
 <meta property="og:type" content="article" />
 <meta property="og:url" content="/posts/2021-03-13-flask/" />
@@ -17,7 +17,7 @@ Neben HTML, CSS und JavaScript kommt bei Flask und Django auch Jinja2 zum Einsat
 
 <meta name="twitter:card" content="summary"/>
 <meta name="twitter:title" content="Tabellen anzeigen in Flask || Django"/>
-<meta name="twitter:description" content="Es gab eine Zeit, in der ich beruflich einige Flask-Applikationen geschrieben habe und auch eine Django-Anwendung war dabei. Flask und Django eint, dass es sich dabei um Frameworks handelt, mit denen man Webapplikationen unter der Nutzung von Python als serverseitige Sprache erstellen kann. Da drängt sich die Frage auf, wann sollte man Flask und wann Django verwenden? Aber die Antwort darauf füllt eher einen weiteren Blogartikel.
+<meta name="twitter:description" content="Es gab eine Zeit, in der ich einige Flask-Applikationen geschrieben habe und auch eine Django-Anwendung war dabei. Flask und Django eint, dass es sich dabei um Frameworks handelt, mit denen man Webapplikationen unter der Nutzung von Python als serverseitige Sprache erstellen kann. Da drängt sich die Frage auf, wann sollte man Flask und wann Django verwenden? Aber die Antwort darauf füllt eher einen weiteren Blogartikel.
 Neben HTML, CSS und JavaScript kommt bei Flask und Django auch Jinja2 zum Einsatz."/>
 
 <meta name="generator" content="Hugo 0.80.0" />
@@ -102,7 +102,7 @@ Neben HTML, CSS und JavaScript kommt bei Flask und Django auch Jinja2 zum Einsat
     
 
 
-    <p>Es gab eine Zeit, in der ich beruflich einige Flask-Applikationen geschrieben habe und auch eine Django-Anwendung war dabei. Flask und Django eint, dass es sich dabei um Frameworks handelt, mit denen man Webapplikationen unter der Nutzung von Python als serverseitige Sprache erstellen kann.
+    <p>Es gab eine Zeit, in der ich einige Flask-Applikationen geschrieben habe und auch eine Django-Anwendung war dabei. Flask und Django eint, dass es sich dabei um Frameworks handelt, mit denen man Webapplikationen unter der Nutzung von Python als serverseitige Sprache erstellen kann.
 Da drängt sich die Frage auf, wann sollte man Flask und wann Django verwenden? Aber die Antwort darauf füllt eher einen weiteren Blogartikel.</p>
 <p>Neben HTML, CSS und JavaScript kommt bei Flask und Django auch <a href="https://jinja.palletsprojects.com/en/2.11.x/">Jinja2</a> zum Einsatz. Jinja2 ist eine Template-Sprache, man erstellt also Template-Seiten, aus denen dann noch einmal pures HTML generiert wird.</p>
 <p>In diesem Artikel möchte ich einen Trick zeigen, den ich oft verwendet habe. Ich wollte eine Tabelle anzeigen lassen, diese Tabelle war aber sehr groß und hatte Tausende von Zeilen.</p>
@@ -132,7 +132,7 @@ sortparams <span style="color:#f92672">=</span> { <span style="color:#e6db74">&#
   {<span style="color:#f92672">%</span> <span style="color:#a6e22e">endif</span> <span style="color:#f92672">%</span>}
   <span style="color:#75715e">// table_data.data = table_data.data.slice(0,5); // DEV config sub array
 </span><span style="color:#75715e"></span>&lt;/<span style="color:#f92672">script</span>&gt;
-</code></pre></div><p>Innerhalb des Views wird ein JSON-Object in einen String umgewandet und einer Template-Variablen übergeben. Im HTML-Template, als Teil einen JavaScript-Blockes wird diese Template-Variable einer JavaScript-Variablen übergeben.</p>
+</code></pre></div><p>Innerhalb des Views wird ein JSON-Object in einen String umgewandelt und einer Template-Variablen übergeben. Im HTML-Template, als Teil einen JavaScript-Blockes wird diese Template-Variable einer JavaScript-Variablen übergeben.</p>
 <p>Und diese kann dann mit <a href="https://datatables.net/">jQuery-Datatables</a> angezeigt werden:</p>
 <p>JavaScript:</p>
 <div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-javascript" data-lang="javascript">...
