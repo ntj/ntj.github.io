@@ -6,7 +6,7 @@
    <description>Recent content in Categories on Trust in code</description>
    <generator>Hugo -- gohugo.io</generator>
    <language>en-us</language>
-   <lastBuildDate>Sun, 14 Mar 2021 08:12:33 +0100</lastBuildDate>
+   <lastBuildDate>Sun, 14 Mar 2021 00:00:00 +0000</lastBuildDate>
    
        <atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
    
@@ -14,7 +14,7 @@
      <item>
        <title>Chemnitzer Linux-Tage</title>
        <link>/posts/2021-03-14-clt/</link>
-       <pubDate>Sun, 14 Mar 2021 08:12:33 +0100</pubDate>
+       <pubDate>Sun, 14 Mar 2021 00:00:00 +0000</pubDate>
        
        <guid>/posts/2021-03-14-clt/</guid>
        <description>&lt;p&gt;Zur Zeit finden die &lt;a href=&#34;https://chemnitzer.linux-tage.de/2021/de/&#34;&gt;Chemnitzer Linux-Tage&lt;/a&gt; und da ich seit dem rC3 und der FOSDEM daran interessiert bin, wie Remote-Kongresse technisch umgesetzt werden, hier eine Beschreibung, wie das auf den CLT funktioniert:&lt;/p&gt;&lt;p&gt;Der Hingucker dieses Kongresses ist wie beim rC3 eine &lt;a href=&#34;https://workadventu.re/faq#opensource&#34;&gt;2D-Welt&lt;/a&gt;, in der man mit Avataren durch ein virtuelles Kongressgebäude laufen kann. Dort sind Stände aufgebaut und man gelangt auf die Ausstellerseiten der Stände und zu den &lt;a href=&#34;https://bbb.live.linux-tage.de/gl/&#34;&gt;BBB&lt;/a&gt;-Räumen, in denen Vorträge stattfinden. Natürlich gibt es auch ein paar &lt;a href=&#34;https://chemnitzer.linux-tage.de/2021/de/programm/vortraege&#34;&gt;Haupttracks&lt;/a&gt;.&lt;/p&gt;&lt;p&gt;Auch wenn alles so schön bequem von zuhause erreichbar ist, Navigation auf Kongressen wie diesen und keine Vorträge verpassen, kann trotzdem eine Herausforderung sein. Aber die CLT twittern und &lt;a href=&#34;https://fosstodon.org/web/accounts/100227&#34;&gt;tooten&lt;/a&gt; ihr Vortragsprogramm auch, sodass ich rechtzeitig auf einen wirklichen spannenden Vortrag über Singularity aufmerksam geworden bin.&lt;/p&gt;&lt;p&gt;Alles in allem bin ich begeistert, wie groß und professionell dieses Event in dem so nah gelegenen Chemnitz ist. Da steckt jede Menge Arbeit drin, und sich als IT-ler abends auch noch an den PC zu setzen um Dinge in seiner Freizeit zu schaffen, davor habe ich großen Respekt.&lt;/p&gt;&lt;p&gt;&lt;em&gt;This is day 21 of my &lt;a href=&#34;https://100daystooffload.com/&#34;&gt;#100daystooffload&lt;/a&gt; series, a challenge to write 100 blog posts in a year.&lt;/em&gt;&lt;/p&gt;</description>
