@@ -1,0 +1,145 @@
+<!doctype html>
+
+<html lang="en-us">
+
+<head>
+  <title>Bower, Gulp, Grunt? Webpack und Yarn! - Trust in code</title>
+  <meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<meta name="description" content="Thoughts on tech by Antje Kazimiers" />
+<meta name="author" content="Antje Kazimiers" /><meta property="og:title" content="Bower, Gulp, Grunt? Webpack und Yarn!" />
+<meta property="og:description" content="Eine zeitlang habe ich existierende Web-Projekte erweitert, in denen für die Installation, Konfiguration und das Bundling Tools wie Webpack und Grunt (oder Gulp) genutzt wurde. Später habe ich eigene Web Apps mit Flask und Django aufgesetzt und mir da die Frage gestellt, wie hantiere ich in diesen Projekten sinnvoll mit JavaScript-Abhängigkeiten? Für Flask existieren zwar Module, die dir das abnehmen, z.B. Flask Bootstrap, aber ich denke trotzdem, dass es sinnvoll ist, JavaScript-Pakete in diesen Projekten so zu verwalten, wie es bei node." />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="/posts/2021-04-26-webdev/" />
+<meta property="article:published_time" content="2021-04-26T00:00:00+00:00" />
+<meta property="article:modified_time" content="2021-04-26T00:00:00+00:00" />
+
+<meta name="twitter:card" content="summary"/>
+<meta name="twitter:title" content="Bower, Gulp, Grunt? Webpack und Yarn!"/>
+<meta name="twitter:description" content="Eine zeitlang habe ich existierende Web-Projekte erweitert, in denen für die Installation, Konfiguration und das Bundling Tools wie Webpack und Grunt (oder Gulp) genutzt wurde. Später habe ich eigene Web Apps mit Flask und Django aufgesetzt und mir da die Frage gestellt, wie hantiere ich in diesen Projekten sinnvoll mit JavaScript-Abhängigkeiten? Für Flask existieren zwar Module, die dir das abnehmen, z.B. Flask Bootstrap, aber ich denke trotzdem, dass es sinnvoll ist, JavaScript-Pakete in diesen Projekten so zu verwalten, wie es bei node."/>
+
+<meta name="generator" content="Hugo 0.80.0" />
+    
+
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/8.0.1/normalize.min.css" integrity="sha256-l85OmPOjvil/SOvVt3HnSSjzF1TUMyT9eV0c2BzEGzU=" crossorigin="anonymous" />
+  <link rel="stylesheet" href="fontawesome/css/all.min.css" />
+  
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto+Slab|Ruda" />
+  
+  
+  <link rel="stylesheet" type="text/css" href="/css/styles.css" /></head>
+
+<body>
+  <div id="container">
+    <header>
+      <h1>
+                <a href="/">Trust in code</a>
+            </h1>
+
+      <ul id="social-media">
+             <li>
+               <a href="https://github.com/ntj" title="GitHub">
+               <i class="fab fa-github fa-lg"></i>
+               </a>
+             </li>
+             <li>
+               <a href="https://twitter.com/mrs_nextmatch" title="Twitter">
+               <i class="fab fa-twitter fa-lg"></i>
+               </a>
+             </li>
+      </ul>
+      
+      <p><em>Thoughts on tech by Antje Kazimiers</em></p>
+      
+    </header>
+
+    
+<nav>
+    <ul>
+        
+        <li>
+            <a class="" href="/pages/about/">
+                <i class="fa-li fa  fa-lg"></i><span>About</span>
+            </a>
+        </li>
+        
+    </ul>
+</nav>
+
+
+    <main>
+
+
+
+
+<article>
+
+    <h1>Bower, Gulp, Grunt? Webpack und Yarn!</h1>
+
+    
+      <aside>
+    <ul>
+        <li class="date">
+            <time class="post-date" datetime=" 2021-04-26T00:00:00Z ">Apr 26, 2021</time>
+        </li>
+         
+        <li class="categories">
+            Categories:
+            <em>
+                
+                    
+                    <a href="/categories/programming">Programming</a>
+                
+            </em>
+        </li>
+         
+    </ul>
+</aside>
+    
+
+    
+
+
+    <p>Eine zeitlang habe ich existierende Web-Projekte erweitert, in denen für die Installation, Konfiguration und das Bundling Tools wie <a href="https://de.wikipedia.org/wiki/Webpack">Webpack</a> und <a href="https://en.wikipedia.org/wiki/Grunt_(software)">Grunt</a> (oder <a href="https://de.wikipedia.org/wiki/Gulp.js">Gulp</a>) genutzt wurde. Später habe ich eigene Web Apps mit Flask und Django aufgesetzt und mir da die Frage gestellt, wie hantiere ich in diesen Projekten sinnvoll mit JavaScript-Abhängigkeiten? Für Flask existieren zwar Module, die dir das abnehmen, z.B. <a href="https://pythonhosted.org/Flask-Bootstrap/">Flask Bootstrap</a>, aber ich denke trotzdem, dass es sinnvoll ist, JavaScript-Pakete in diesen Projekten so zu verwalten, wie es bei node.js möglich ist, bzw. gibts diese Module meines Wissens nach auch nicht für alle JavaScript-Bibos, die ich nutzen möchte und vielleicht auch nicht immer in der aktuellsten Version.</p>
+<p>Gibt zwar Kritiker von node.js und npm, aber ich finde die Installation und Aktualisierung von Paketen per Kommandozeile einfach praktisch.</p>
+<p>Vielleicht habe ich nicht lange genug gesucht, aber für Flask und Django hab ich da keine ideale Lösung gefunden. Mir ist auch wirklich schleierhaft, welche Tools man für welchen Zweck am Besten verwendet: Grunt, Gulp, <a href="https://de.wikipedia.org/wiki/Bower_(Software)">Bower</a>, Webpack, ist das nur Geschmackssache, welches Tool man nutzt? Gibt es da wirklich signifikante Unterschiede in der Funkionalität?</p>
+<p>Nun bin ich in einem anderen Projekt wirklich zufrieden mit meiner (fast) selbst aufgesetzten Webpack-Konfiguration, welche auch schon das erste Groß-Update diverser Node-Pakete überstanden hat. Sollte ich also noch einmal JavaScript-Pakete in Flask oder Django - Projekten verwalten wollen, dann würde ich es also mit [Flask | Django] + Webpack versuchen.</p>
+<p><em>This is day 28 of my <a href="https://100daystooffload.com/">#100daystooffload</a> series, a challenge to write 100 blog posts in a year.</em></p>
+
+
+</article>
+
+
+<section class="post-nav">
+    <ul>
+        
+        <li>
+            <a href="/posts/2021-04-17-social/"><i class="fa fa-chevron-circle-left"></i> Social Media überlisten</a>
+        </li>
+        
+        
+    </ul>
+</section>
+  
+    
+    
+  
+
+
+
+
+
+</main>
+    <footer>
+        <h6> |
+            Rendered by <a href="https://gohugo.io" title="Hugo">Hugo</a> |
+            <a href="index.xml">Subscribe </a></h6>
+    </footer>
+</div>
+<script src="/js/scripts.js"></script>
+
+
+</body>
+
+</html>
+
