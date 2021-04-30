@@ -3,27 +3,37 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>/categories/</loc>
+    <lastmod>2021-04-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/posts/2021-04-30-codegirls/</loc>
+    <lastmod>2021-04-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/posts/</loc>
+    <lastmod>2021-04-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/</loc>
+    <lastmod>2021-04-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/women/</loc>
+    <lastmod>2021-04-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/posts/2021-04-26-webdev/</loc>
     <lastmod>2021-04-26T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/categories/</loc>
-    <lastmod>2021-04-26T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/posts/</loc>
-    <lastmod>2021-04-26T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/categories/programming/</loc>
-    <lastmod>2021-04-26T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/</loc>
     <lastmod>2021-04-26T00:00:00+00:00</lastmod>
   </url>
   
@@ -94,11 +104,6 @@
   
   <url>
     <loc>/posts/2021-03-06-sinn/</loc>
-    <lastmod>2021-03-06T11:49:48+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/categories/women/</loc>
     <lastmod>2021-03-06T11:49:48+01:00</lastmod>
   </url>
   
