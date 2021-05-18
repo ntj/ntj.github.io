@@ -6,10 +6,19 @@
    <description>Recent content in Thoughts on Trust in code</description>
    <generator>Hugo -- gohugo.io</generator>
    <language>en-us</language>
-   <lastBuildDate>Tue, 11 May 2021 00:00:00 +0000</lastBuildDate>
+   <lastBuildDate>Tue, 18 May 2021 00:00:00 +0000</lastBuildDate>
    
        <atom:link href="/categories/thoughts/index.xml" rel="self" type="application/rss+xml" />
    
+   
+     <item>
+       <title>Der Eureka Effekt</title>
+       <link>/posts/2021-05-18-eureka/</link>
+       <pubDate>Tue, 18 May 2021 00:00:00 +0000</pubDate>
+       
+       <guid>/posts/2021-05-18-eureka/</guid>
+       <description>&lt;p&gt;Letztens habe ich über den Eureka Effekt gelesen. Es geht um den Moment, in dem man plötzlich ein Problem oder Konzept versteht, welches einem vorher unverständlich erschien (das sogenannte Aha-Erlebnis). Meist geht dieser Eureka Effekt einher mit einem Glücksgefühl bzw. wird das Erlangen der neugewonnenen Erkenntnis als zufriedenstellend empfunden.&lt;/p&gt;&lt;p&gt;Ich habe mich gefragt, ob es beim Programmieren lernen diese Momente für mich gab und ich denke, ein paar mal bestimmt:&lt;/p&gt;&lt;ol&gt;&lt;li&gt;Beim Verstehen des Unterschiedes eines in Pascal geschriebenen Programms und der objektorientierten Programmierung in Delphi&lt;/li&gt;&lt;li&gt;Beim Verstehen, dass Daten auch aus Dateien (.csv oder andere) in Programme geladen werden können und nicht nur mittels einer Datenbankanbindung&lt;/li&gt;&lt;li&gt;Wie JavaScript-Code in HTML eingebunden wird&lt;/li&gt;&lt;/ol&gt;&lt;p&gt;Vielleicht ist die Liste nicht komplett. Über den ein oder anderen JavaScript-Hack, z.B. mit Closures oder Promises, welcher ein Problem löst, habe ich mich später auch noch gefreut, demzufolge könnte man diese hier mit aufnehmen.&lt;/p&gt;&lt;p&gt;Ich glaube, es könnte interessant sein, mehr darüber herauszufinden, welche Eureka-Momente beim Programmieren lernen gemeinhin auftreten.&lt;/p&gt;&lt;p&gt;&lt;em&gt;This is day 34 of my &lt;a href=&#34;https://100daystooffload.com/&#34;&gt;#100daystooffload&lt;/a&gt; series, a challenge to write 100 blog posts in a year.&lt;/em&gt;&lt;/p&gt;</description>
+     </item>
    
      <item>
        <title>Reisen</title>
