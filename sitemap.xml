@@ -8,7 +8,12 @@
   </url>
   
   <url>
-    <loc>/posts/2022-06-05-kryptow%C3%A4hrungen/</loc>
+    <loc>/posts/2021-06-05-kryptow%C3%A4hrungen/</loc>
+    <lastmod>2021-06-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/podcasts/</loc>
     <lastmod>2021-06-05T00:00:00+00:00</lastmod>
   </url>
   
@@ -18,18 +23,8 @@
   </url>
   
   <url>
-    <loc>/categories/thoughts/</loc>
-    <lastmod>2021-06-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/</loc>
     <lastmod>2021-06-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/categories/podcasts/</loc>
-    <lastmod>2021-05-31T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -89,6 +84,11 @@
   
   <url>
     <loc>/posts/2021-05-18-eureka/</loc>
+    <lastmod>2021-05-18T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/thoughts/</loc>
     <lastmod>2021-05-18T00:00:00+00:00</lastmod>
   </url>
   
