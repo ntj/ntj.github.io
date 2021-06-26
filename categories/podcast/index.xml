@@ -1,14 +1,14 @@
 
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
  <channel>
-   <title>Hacking on Trust in code</title>
-   <link>/categories/hacking/</link>
-   <description>Recent content in Hacking on Trust in code</description>
+   <title>Podcast on Trust in code</title>
+   <link>/categories/podcast/</link>
+   <description>Recent content in Podcast on Trust in code</description>
    <generator>Hugo -- gohugo.io</generator>
    <language>en-us</language>
-   <lastBuildDate>Mon, 08 Feb 2021 00:00:00 +0100</lastBuildDate>
+   <lastBuildDate>Sat, 26 Jun 2021 00:00:00 +0000</lastBuildDate>
    
-       <atom:link href="/categories/hacking/index.xml" rel="self" type="application/rss+xml" />
+       <atom:link href="/categories/podcast/index.xml" rel="self" type="application/rss+xml" />
    
    
      <item>
@@ -17,7 +17,16 @@
        <pubDate>Sat, 26 Jun 2021 00:00:00 +0000</pubDate>
        
        <guid>/posts/2021-06-26-sugar/</guid>
-       <description>&lt;p&gt;Ich glaube ich mache eine kleine Serie aus den CRE Folgen, die einen Eindruck auf mich machten, was bedeutet, dass ich ein paar Mal noch daran zurück dachte oder die Gedanken irgendwo hingetragen habe (in einer E-Mail z. B.).&lt;/p&gt;&lt;p&gt;Eines davon war die Folge &lt;a href=&#34;https://cre.fm/cre131-mensch-maschine-interaktion&#34;&gt;&amp;ldquo;Mensch-Maschine-Interaktion&amp;rdquo;&lt;/a&gt; aus dem Jahr 2009.&lt;/p&gt;&lt;p&gt;Der Referent spricht über Alternativen zu dem uns all bekannten Desktop, auf dem man Dateien ablegt. Auch die Konzepte &amp;ldquo;Ordner&amp;rdquo; und &amp;ldquo;Unterordner&amp;rdquo; müssen nicht die letzte Antwort auf die Frage sein, wie man Dateien strukturiert und organisiert.&lt;/p&gt;&lt;p&gt;Er stellte das Betriebssystem SugarOS vor, welches für das One Laptop Per Child Projekt entwickelt wurde. Das zentrale Element der Informations-Strukturierung ist hier nicht das Verzeichnis, sondern das Journal.&lt;/p&gt;&lt;p&gt;Auch konnte man ganz leicht die Anordnung seiner auf dem Desktop verfügbaren Schaltelemente verändern. Es gehörte zum Lernkonzept, dass man sein Betriebssysstem, also quasi die Kern-Software-Komponente seines Computers untersuchen, verstehen und verändern konnte.&lt;/p&gt;&lt;p&gt;Ich war total begeistert! Das war absolut neu für mich. Wenn ich heute an mein Selbst vor 12 Jahren zurück denke, dann denke ich, das muss ein anderer Mensch gewesen sein.&lt;/p&gt;&lt;p&gt;Nichtsdestotrotz finde ich es schön zu sehen, wenn mir heute ein Projekt begegnet, dass diesen Gedanken aufgreift und Lernenden die Möglichkeit gibt, die Programme die sie bereits benutzen, zu verstehen.&lt;/p&gt;&lt;p&gt;&lt;em&gt;This is day 45 of my &lt;a href=&#34;https://100daystooffload.com/&#34;&gt;#100daystooffload&lt;/a&gt; series, a challenge to write 100 blog posts in a year.&lt;/em&gt;&lt;/p&gt;</description>
+       <description>&lt;p&gt;Ich glaube ich mache eine kleine Serie aus den (ich glaube insgesamt drei) CRE Folgen, die einen Eindruck auf mich machten, was bedeutet, dass ich ein paar Mal noch daran zurück dachte oder die Gedanken irgendwo hingetragen habe (in einer E-Mail z. B.).&lt;/p&gt;&lt;p&gt;Eines davon war die Folge &lt;a href=&#34;https://cre.fm/cre131-mensch-maschine-interaktion&#34;&gt;&amp;ldquo;Mensch-Maschine-Interaktion&amp;rdquo;&lt;/a&gt; aus dem Jahr 2009.&lt;/p&gt;&lt;p&gt;Der Referent spricht über Alternativen zu dem uns all bekannten Desktop, auf dem man Dateien ablegt. Auch die Konzepte &amp;ldquo;Ordner&amp;rdquo; und &amp;ldquo;Unterordner&amp;rdquo; müssen nicht die letzte Antwort auf die Frage sein, wie man Dateien strukturiert.&lt;/p&gt;&lt;p&gt;Er stellte das Betriebssystem SugarOS vor, welches für das One Laptop per Child Projekt entwickelt wurde. Das zentrale Element der Informations-Strukturierung ist hier nicht das Verzeichnis, sondern das Journal.&lt;/p&gt;&lt;p&gt;Auch konnte man ganz leicht die Anordnung seiner auf dem Desktop verfügbaren Schaltelemente verändern. Es gehörte zum Lernkonzept, dass man sein Betriebssysstem, also quasi die Software-Komponente seines Computers untersuchen, verstehen und verändern konnte.&lt;/p&gt;&lt;p&gt;Ich war total begeistert! Das war absolut neu für mich. Wenn ich heute an die Antje vor 12 Jahre denke, dann denke ich, das muss ein anderer Mensch gewesen sein. Jedenfalls finde ich es schön zu sehen, wenn mir heute ein Projekt begegnet, dass diesen Gedanken aufgreift und Lernenden die Möglichkeit gibt, die Programme die sie bereits benutzen, zu verstehen.&lt;/p&gt;&lt;p&gt;&lt;em&gt;This is day 45 of my &lt;a href=&#34;https://100daystooffload.com/&#34;&gt;#100daystooffload&lt;/a&gt; series, a challenge to write 100 blog posts in a year.&lt;/em&gt;&lt;/p&gt;</description>
+     </item>
+   
+     <item>
+       <title>Das Netz auf der Bühne</title>
+       <link>/posts/2021-06-18-theater-copy/</link>
+       <pubDate>Fri, 18 Jun 2021 00:00:00 +0000</pubDate>
+       
+       <guid>/posts/2021-06-18-theater-copy/</guid>
+       <description>&lt;p&gt;There were two mental problems I noticed when I worked as a software engineer and I am wondering, if anyone has experienced something similar:&lt;/p&gt;&lt;h2 id=&#34;caught-up-in-the-domain&#34;&gt;Caught up in the domain&lt;/h2&gt;&lt;p&gt;I was really so much into the project and what I wanted to build, it consumed a lot of brain power. I thought about it all day and hardly could step away from it. Looking back, I think this really scares me and I wouldn&amp;rsquo;t want to experience this again. I know I actively worked on relaxing and thinking and achieved that with Yoga,also&lt;/p&gt;&lt;h2 id=&#34;web-form-phobia&#34;&gt;Web form phobia&lt;/h2&gt;&lt;p&gt;I&lt;/p&gt;&lt;p&gt;&lt;em&gt;This is day 45 of my &lt;a href=&#34;https://100daystooffload.com/&#34;&gt;#100daystooffload&lt;/a&gt; series, a challenge to write 100 blog posts in a year.&lt;/em&gt;&lt;/p&gt;</description>
      </item>
    
      <item>

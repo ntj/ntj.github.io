@@ -6,10 +6,19 @@
    <description>Recent content in Posts on Trust in code</description>
    <generator>Hugo -- gohugo.io</generator>
    <language>en-us</language>
-   <lastBuildDate>Fri, 18 Jun 2021 00:00:00 +0000</lastBuildDate>
+   <lastBuildDate>Sat, 26 Jun 2021 00:00:00 +0000</lastBuildDate>
    
        <atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
    
+   
+     <item>
+       <title>Den Computer verändern</title>
+       <link>/posts/2021-06-26-sugar/</link>
+       <pubDate>Sat, 26 Jun 2021 00:00:00 +0000</pubDate>
+       
+       <guid>/posts/2021-06-26-sugar/</guid>
+       <description>&lt;p&gt;Ich glaube ich mache eine kleine Serie aus den CRE Folgen, die einen Eindruck auf mich machten, was bedeutet, dass ich ein paar Mal noch daran zurück dachte oder die Gedanken irgendwo hingetragen habe (in einer E-Mail z. B.).&lt;/p&gt;&lt;p&gt;Eines davon war die Folge &lt;a href=&#34;https://cre.fm/cre131-mensch-maschine-interaktion&#34;&gt;&amp;ldquo;Mensch-Maschine-Interaktion&amp;rdquo;&lt;/a&gt; aus dem Jahr 2009.&lt;/p&gt;&lt;p&gt;Der Referent spricht über Alternativen zu dem uns all bekannten Desktop, auf dem man Dateien ablegt. Auch die Konzepte &amp;ldquo;Ordner&amp;rdquo; und &amp;ldquo;Unterordner&amp;rdquo; müssen nicht die letzte Antwort auf die Frage sein, wie man Dateien strukturiert und organisiert.&lt;/p&gt;&lt;p&gt;Er stellte das Betriebssystem SugarOS vor, welches für das One Laptop Per Child Projekt entwickelt wurde. Das zentrale Element der Informations-Strukturierung ist hier nicht das Verzeichnis, sondern das Journal.&lt;/p&gt;&lt;p&gt;Auch konnte man ganz leicht die Anordnung seiner auf dem Desktop verfügbaren Schaltelemente verändern. Es gehörte zum Lernkonzept, dass man sein Betriebssysstem, also quasi die Kern-Software-Komponente seines Computers untersuchen, verstehen und verändern konnte.&lt;/p&gt;&lt;p&gt;Ich war total begeistert! Das war absolut neu für mich. Wenn ich heute an mein Selbst vor 12 Jahren zurück denke, dann denke ich, das muss ein anderer Mensch gewesen sein.&lt;/p&gt;&lt;p&gt;Nichtsdestotrotz finde ich es schön zu sehen, wenn mir heute ein Projekt begegnet, dass diesen Gedanken aufgreift und Lernenden die Möglichkeit gibt, die Programme die sie bereits benutzen, zu verstehen.&lt;/p&gt;&lt;p&gt;&lt;em&gt;This is day 45 of my &lt;a href=&#34;https://100daystooffload.com/&#34;&gt;#100daystooffload&lt;/a&gt; series, a challenge to write 100 blog posts in a year.&lt;/em&gt;&lt;/p&gt;</description>
+     </item>
    
      <item>
        <title>Das Netz auf der Bühne</title>
