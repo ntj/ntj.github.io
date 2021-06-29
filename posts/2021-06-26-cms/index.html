@@ -1,0 +1,154 @@
+<!doctype html>
+
+<html lang="en-us">
+
+<head>
+  <title>Content Management Systeme - Trust in code</title>
+  <meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<meta name="description" content="Thoughts on tech by Antje Kazimiers" />
+<meta name="author" content="Antje Kazimiers" /><meta property="og:title" content="Content Management Systeme" />
+<meta property="og:description" content="Eine Weile hatte ja mit Microsoft CRM, mit SharePoint und mit Drupal zu tun. Die Arbeit mit Dynamics CRM hat mir wirklich ziemliche Freude bereitet. Das ist in sich ein rundes Produkt und hat ein paar mächtige Funktionen, die ich erst auf den zweiten Blick entdeckt habe und mit denen wir interessante Dinge gebaut haben, wie die Connections.
+Mit CRM lässt es sich auch deswegen so gut arbeiten, weil man das theoretische Handwerkszeug dafür im Studium gelernt hat." />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="/posts/2021-06-26-cms/" />
+<meta property="article:published_time" content="2021-06-29T00:00:00+00:00" />
+<meta property="article:modified_time" content="2021-06-29T00:00:00+00:00" />
+
+<meta name="twitter:card" content="summary"/>
+<meta name="twitter:title" content="Content Management Systeme"/>
+<meta name="twitter:description" content="Eine Weile hatte ja mit Microsoft CRM, mit SharePoint und mit Drupal zu tun. Die Arbeit mit Dynamics CRM hat mir wirklich ziemliche Freude bereitet. Das ist in sich ein rundes Produkt und hat ein paar mächtige Funktionen, die ich erst auf den zweiten Blick entdeckt habe und mit denen wir interessante Dinge gebaut haben, wie die Connections.
+Mit CRM lässt es sich auch deswegen so gut arbeiten, weil man das theoretische Handwerkszeug dafür im Studium gelernt hat."/>
+
+<meta name="generator" content="Hugo 0.80.0" />
+    
+
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/8.0.1/normalize.min.css" integrity="sha256-l85OmPOjvil/SOvVt3HnSSjzF1TUMyT9eV0c2BzEGzU=" crossorigin="anonymous" />
+  <link rel="stylesheet" href="fontawesome/css/all.min.css" />
+  
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto+Slab|Ruda" />
+  
+  
+  <link rel="stylesheet" type="text/css" href="/css/styles.css" /></head>
+
+<body>
+  <div id="container">
+    <header>
+      <h1>
+                <a href="/">Trust in code</a>
+            </h1>
+
+      <ul id="social-media">
+             <li>
+               <a href="https://github.com/ntj" title="GitHub">
+               <i class="fab fa-github fa-lg"></i>
+               </a>
+             </li>
+             <li>
+               <a href="https://twitter.com/mrs_nextmatch" title="Twitter">
+               <i class="fab fa-twitter fa-lg"></i>
+               </a>
+             </li>
+      </ul>
+      
+      <p><em>Thoughts on tech by Antje Kazimiers</em></p>
+      
+    </header>
+
+    
+<nav>
+    <ul>
+        
+        <li>
+            <a class="" href="/pages/about/">
+                <i class="fa-li fa  fa-lg"></i><span>About</span>
+            </a>
+        </li>
+        
+        <li>
+            <a class="" href="/pages/impressum/">
+                <i class="fa-li fa  fa-lg"></i><span>Impressum</span>
+            </a>
+        </li>
+        
+    </ul>
+</nav>
+
+
+    <main>
+
+
+
+
+<article>
+
+    <h1>Content Management Systeme</h1>
+
+    
+      <aside>
+    <ul>
+        <li class="date">
+            <time class="post-date" datetime=" 2021-06-29T00:00:00Z ">Jun 29, 2021</time>
+        </li>
+         
+        <li class="categories">
+            Categories:
+            <em>
+                
+                    
+                    <a href="/categories/programming">Programming</a>
+                
+            </em>
+        </li>
+         
+    </ul>
+</aside>
+    
+
+    
+
+
+    <p>Eine Weile hatte ja mit Microsoft CRM, mit SharePoint und mit Drupal zu tun. Die Arbeit mit Dynamics CRM hat mir wirklich ziemliche Freude bereitet. Das ist in sich ein rundes Produkt und hat ein paar mächtige Funktionen, die ich erst auf den zweiten Blick entdeckt habe und mit denen wir interessante Dinge gebaut haben, wie die Connections.</p>
+<p>Mit CRM lässt es sich auch deswegen so gut arbeiten, weil man das theoretische Handwerkszeug dafür im Studium gelernt hat. Das sind das E-R-Modell und Model-View-Controller. Mit den beiden Informationen ausgestattet und mit einem sicheren Umgang mit prozeduralen Programmiersprachen wie C# und JavaScript kann man ein CRM-Projekt sehr gut meistern.</p>
+<p>SharePoint und auch Drupal fand ich viel unübersichtlicher. Manche sagten ja, SharePoint wird CRM irgendwann ersetzen, weil es eigentlich genau dasselbe kann und darüber hinaus noch mehr, aber ich glaube das nicht.</p>
+<p>Schauen wir uns Drupal genauer an. Ein Content Type in Drupal entspricht einer Entität in CRM (oder einer Liste in SharePoint). Letztendlich ist alles irgendwie eine Tabelle, wobei man noch einmal genauer drauf schauen sollte, ob dann in der Datenbank eine Liste wirklich in einer eigenen Tabelle abgespeichert wird oder nicht. Bei Drupal und auch bei SharePoint spielt die View Ebene jedoch eine viel größere Rolle als bei CRM. Man müsste sich das noch einmal genau anschauen, aber bei Drupal gab es wirklich viele Module, die irgendwie dazu da waren, verschiedene Views auf denselben Daten zu bauen.</p>
+<p>Jedenfalls möchte ich sagen, ich glaube, für alle diesen neueren Content Management Systeme und Webframeworks, meinetwegen auch für AngularJS und ReactJS, wäre es gut, wenn auf der konzeptuellen Ebene ebenso Modelle existieren, die so ausgereift sind wie das E-R-Modell. Ich glaube MVVM Pattern &amp; Co gehen in die richtige Richtung, aber das trifft es nicht ganz wenn man an Drupal denkt. Vielleicht übersehe ich hier ja auch etwas. Aber gäbe es ein solches Modell, dann könnte das, was eigentlich gebaut werden soll, besser verstanden werden und es könnten demzufolge bessere CRMs und Frameworks gebaut bzw. die Existierenden verbessert werden.</p>
+<p><em>This is day 47 of my <a href="https://100daystooffload.com/">#100daystooffload</a> series, a challenge to write 100 blog posts in a year.</em></p>
+
+
+</article>
+
+
+<section class="post-nav">
+    <ul>
+        
+        <li>
+            <a href="/posts/2021-06-26-wahlcomputer/"><i class="fa fa-chevron-circle-left"></i> Wahlcomputer</a>
+        </li>
+        
+        
+    </ul>
+</section>
+  
+    
+    
+  
+
+
+
+
+
+</main>
+    <footer>
+        <h6> |
+            Rendered by <a href="https://gohugo.io" title="Hugo">Hugo</a> |
+            <a href="index.xml">Subscribe </a></h6>
+    </footer>
+</div>
+<script src="/js/scripts.js"></script>
+
+
+</body>
+
+</html>
+
