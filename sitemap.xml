@@ -18,7 +18,7 @@
   </url>
   
   <url>
-    <loc>/categories/programming/</loc>
+    <loc>/categories/social/</loc>
     <lastmod>2021-07-04T00:00:00+00:00</lastmod>
   </url>
   
@@ -29,6 +29,11 @@
   
   <url>
     <loc>/posts/2021-06-29-cms/</loc>
+    <lastmod>2021-06-29T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/programming/</loc>
     <lastmod>2021-06-29T00:00:00+00:00</lastmod>
   </url>
   
@@ -175,11 +180,6 @@
   <url>
     <loc>/posts/2021-04-26-webdev/</loc>
     <lastmod>2021-04-26T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/categories/social/</loc>
-    <lastmod>2021-04-17T00:00:00+00:00</lastmod>
   </url>
   
   <url>
