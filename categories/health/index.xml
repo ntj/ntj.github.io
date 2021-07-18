@@ -12,6 +12,15 @@
    
    
      <item>
+       <title>Git Main Branch</title>
+       <link>/posts/2021-07-18-git/</link>
+       <pubDate>Sun, 18 Jul 2021 00:00:00 +0000</pubDate>
+       
+       <guid>/posts/2021-07-18-git/</guid>
+       <description>&lt;p&gt;Wenn man auf github und jetzt auch auf gitlab ein neues Repository anlegt, dann ist der default branch der Branch main.&lt;/p&gt;&lt;p&gt;In git selbst ist das noch nicht der Fall und so musste ich schon mehrmals basteln, weil ich lokal ein Repo initalisiere und dort der Standard Branch noch master ist und ich das dann auf main umfriemeln musste.&lt;/p&gt;&lt;p&gt;Man kann wohl auf seinen Maschinen mit einem git config Befehl das so einstellen, dass der Standard git branch lokal auch main heißt. ich bin dafür, dass git seinen default branch auch main nennt, sodass eine Extrakonfiguration nicht mehr nötig ist.&lt;/p&gt;&lt;p&gt;Vor ein paar Monaten hatte ich zu diesem Thema eine ziemlich erbittert geführte Debatte auf einer Developer Mailingliste verfolgt und gemerkt, dass ich schon deswegen dafür bin, konsequent main als den Standard-Branch zu nehmen, weil ich mich nicht auf die Seite derer schlagen möchte, die da dagegen sind. Es scheint auch eine ziemlich unkomplizierte Änderung zu sein, selbst für größere Projekte.&lt;/p&gt;&lt;p&gt;Aus meiner Sicht muss man die Debatte auch vom Ergebnis her sehen: Wenn der Haupt-Branch standardmäßig main heißt, wird kaum einer sagen, dass der Begriff &amp;ldquo;master&amp;rdquo; treffender ist. Ist er nicht. Hauptbranch -&amp;gt; main, oder primary, default, was auch immer, aber main passt gut.&lt;/p&gt;&lt;p&gt;Die Diskussion erinnert mich an die über das Emojicon für einen Salat. Dieses hatte in der ersten Version ein Ei, das wurde dann weggelassen. Eine Ganze Menge Leute fanden das unverständlich und haben sich darüber aufgeregt. Aber vom Ergebnis her gesehen ist ein Emojicon eben auch ohne Ei, nur mit Salatblättern, Tomate und Gurke ein einwandfrei erkennbares Icon für einen Salat.&lt;/p&gt;&lt;p&gt;Ich finde, es ist hilfreich, kontroverse Fragen wie diese auch vom Ergebnis her zu betrachten.&lt;/p&gt;&lt;p&gt;&lt;em&gt;This is day 50 of my &lt;a href=&#34;https://100daystooffload.com/&#34;&gt;#100daystooffload&lt;/a&gt; series, a challenge to write 100 blog posts in a year.&lt;/em&gt;&lt;/p&gt;</description>
+     </item>
+   
+     <item>
        <title>We founded the FSFE Women</title>
        <link>/posts/2021-07-17-clubs/</link>
        <pubDate>Sat, 17 Jul 2021 00:00:00 +0000</pubDate>

@@ -1,0 +1,158 @@
+<!doctype html>
+
+<html lang="en-us">
+
+<head>
+  <title>Git Main Branch - Trust in code</title>
+  <meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<meta name="description" content="Thoughts on tech by Antje Kazimiers" />
+<meta name="author" content="Antje Kazimiers" /><meta property="og:title" content="Git Main Branch" />
+<meta property="og:description" content="Wenn man auf github und jetzt auch auf gitlab ein neues Repository anlegt, dann ist der default branch der Branch main.
+In git selbst ist das noch nicht der Fall und so musste ich schon mehrmals basteln, weil ich lokal ein Repo initalisiere und dort der Standard Branch noch master ist und ich das dann auf main umfriemeln musste.
+Man kann wohl auf seinen Maschinen mit einem git config Befehl das so einstellen, dass der Standard git branch lokal auch main heißt." />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="/posts/2021-07-18-git/" />
+<meta property="article:published_time" content="2021-07-18T00:00:00+00:00" />
+<meta property="article:modified_time" content="2021-07-18T00:00:00+00:00" />
+
+<meta name="twitter:card" content="summary"/>
+<meta name="twitter:title" content="Git Main Branch"/>
+<meta name="twitter:description" content="Wenn man auf github und jetzt auch auf gitlab ein neues Repository anlegt, dann ist der default branch der Branch main.
+In git selbst ist das noch nicht der Fall und so musste ich schon mehrmals basteln, weil ich lokal ein Repo initalisiere und dort der Standard Branch noch master ist und ich das dann auf main umfriemeln musste.
+Man kann wohl auf seinen Maschinen mit einem git config Befehl das so einstellen, dass der Standard git branch lokal auch main heißt."/>
+
+<meta name="generator" content="Hugo 0.80.0" />
+    
+
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/8.0.1/normalize.min.css" integrity="sha256-l85OmPOjvil/SOvVt3HnSSjzF1TUMyT9eV0c2BzEGzU=" crossorigin="anonymous" />
+  <link rel="stylesheet" href="fontawesome/css/all.min.css" />
+  
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto+Slab|Ruda" />
+  
+  
+  <link rel="stylesheet" type="text/css" href="/css/styles.css" /></head>
+
+<body>
+  <div id="container">
+    <header>
+      <h1>
+                <a href="/">Trust in code</a>
+            </h1>
+
+      <ul id="social-media">
+             <li>
+               <a href="https://github.com/ntj" title="GitHub">
+               <i class="fab fa-github fa-lg"></i>
+               </a>
+             </li>
+             <li>
+               <a href="https://twitter.com/mrs_nextmatch" title="Twitter">
+               <i class="fab fa-twitter fa-lg"></i>
+               </a>
+             </li>
+      </ul>
+      
+      <p><em>Thoughts on tech by Antje Kazimiers</em></p>
+      
+    </header>
+
+    
+<nav>
+    <ul>
+        
+        <li>
+            <a class="" href="/pages/about/">
+                <i class="fa-li fa  fa-lg"></i><span>About</span>
+            </a>
+        </li>
+        
+        <li>
+            <a class="" href="/pages/impressum/">
+                <i class="fa-li fa  fa-lg"></i><span>Impressum</span>
+            </a>
+        </li>
+        
+    </ul>
+</nav>
+
+
+    <main>
+
+
+
+
+<article>
+
+    <h1>Git Main Branch</h1>
+
+    
+      <aside>
+    <ul>
+        <li class="date">
+            <time class="post-date" datetime=" 2021-07-18T00:00:00Z ">Jul 18, 2021</time>
+        </li>
+         
+        <li class="categories">
+            Categories:
+            <em>
+                
+                    
+                    <a href="/categories/programming">Programming</a>
+                
+            </em>
+        </li>
+         
+    </ul>
+</aside>
+    
+
+    
+
+
+    <p>Wenn man auf github und jetzt auch auf gitlab ein neues Repository anlegt, dann ist der default branch der Branch main.</p>
+<p>In git selbst ist das noch nicht der Fall und so musste ich schon mehrmals basteln, weil ich lokal ein Repo initalisiere und dort der Standard Branch noch master ist und ich das dann auf main umfriemeln musste.</p>
+<p>Man kann wohl auf seinen Maschinen mit einem git config Befehl das so einstellen, dass der Standard git branch lokal auch main heißt. ich bin dafür, dass git seinen default branch auch main nennt, sodass eine Extrakonfiguration nicht mehr nötig ist.</p>
+<p>Vor ein paar Monaten hatte ich zu diesem Thema eine ziemlich erbittert geführte Debatte auf einer Developer Mailingliste verfolgt und gemerkt, dass ich schon deswegen dafür bin, konsequent main als den Standard-Branch zu nehmen, weil ich mich nicht auf die Seite derer schlagen möchte, die da dagegen sind. Es scheint auch eine ziemlich unkomplizierte Änderung zu sein, selbst für größere Projekte.</p>
+<p>Aus meiner Sicht muss man die Debatte auch vom Ergebnis her sehen: Wenn der Haupt-Branch standardmäßig main heißt, wird kaum einer sagen, dass der Begriff &ldquo;master&rdquo; treffender ist. Ist er nicht. Hauptbranch -&gt; main, oder primary, default, was auch immer, aber main passt gut.</p>
+<p>Die Diskussion erinnert mich an die über das Emojicon für einen Salat. Dieses hatte in der ersten Version ein Ei, das wurde dann weggelassen. Eine Ganze Menge Leute fanden das unverständlich und haben sich darüber aufgeregt. Aber vom Ergebnis her gesehen ist ein Emojicon eben auch ohne Ei, nur mit Salatblättern, Tomate und Gurke ein einwandfrei erkennbares Icon für einen Salat.</p>
+<p>Ich finde, es ist hilfreich, kontroverse Fragen wie diese auch vom Ergebnis her zu betrachten.</p>
+<p><em>This is day 50 of my <a href="https://100daystooffload.com/">#100daystooffload</a> series, a challenge to write 100 blog posts in a year.</em></p>
+
+
+</article>
+
+
+<section class="post-nav">
+    <ul>
+        
+        <li>
+            <a href="/posts/2021-07-17-clubs/"><i class="fa fa-chevron-circle-left"></i> We founded the FSFE Women</a>
+        </li>
+        
+        
+    </ul>
+</section>
+  
+    
+    
+  
+
+
+
+
+
+</main>
+    <footer>
+        <h6> |
+            Rendered by <a href="https://gohugo.io" title="Hugo">Hugo</a> |
+            <a href="index.xml">Subscribe </a></h6>
+    </footer>
+</div>
+<script src="/js/scripts.js"></script>
+
+
+</body>
+
+</html>
+
