@@ -6,10 +6,19 @@
    <description>Recent content in Posts on Trust in code</description>
    <generator>Hugo -- gohugo.io</generator>
    <language>en-us</language>
-   <lastBuildDate>Wed, 11 Aug 2021 00:00:00 +0000</lastBuildDate>
+   <lastBuildDate>Sun, 22 Aug 2021 00:00:00 +0000</lastBuildDate>
    
        <atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
    
+   
+     <item>
+       <title>FZF</title>
+       <link>/posts/2021-08-22-fzf/</link>
+       <pubDate>Sun, 22 Aug 2021 00:00:00 +0000</pubDate>
+       
+       <guid>/posts/2021-08-22-fzf/</guid>
+       <description>&lt;p&gt;Es gibt ein neues Tool, welches ich gerade ausprobiere, das ist &lt;a href=&#34;https://github.com/junegunn/fzf&#34;&gt;fzf&lt;/a&gt;, ein &amp;ldquo;command-line fuzzy finder&amp;rdquo;.&lt;/p&gt;&lt;p&gt;Ähnlich wie mit [STRG] + [R] kann man in einem Terminal nach Befehlen suchen, die man zuvor dort eingegeben hat, aber fzf kann noch mehr als das einfache Durchsuchen der Kommandozeilen-History. Es sucht auch nach Dateinamen und Vertipper ignoriert werden ignoriert, wenn es einen ähnlichen Begriff gibt.&lt;/p&gt;&lt;p&gt;Gibt es für Linux und auch für den Mac.&lt;/p&gt;&lt;p&gt;Ich hab gleich an einen Talk gedacht, den ich vor vielen Jahren gesehen hatte, über &lt;a href=&#34;https://fahrplan.events.ccc.de/congress/2011/Fahrplan/events/4587.en.html&#34;&gt;bup&lt;/a&gt;. Der Redner war damals sehr happy, dass er für sein Tool noch einen dreibuchstabigen Namen finden konnte, für den er noch ein Github Repository anlegen konnte. Und der Name klingt gut und lässt sich leicht aussprechen.&lt;/p&gt;&lt;p&gt;Oder hat er ein Jahr zuvor bereits einen Lightning Talk über das Projekt gehalten? Tja, wer weiß. Hoffentlich kann irgendwann, wenn nicht dieses, dann nächstes Jahr wieder einen Kongress mit Tausenden von Menschen stattfinden.&lt;/p&gt;&lt;p&gt;&lt;em&gt;This is day 54 of my &lt;a href=&#34;https://100daystooffload.com/&#34;&gt;#100daystooffload&lt;/a&gt; series, a challenge to write 100 blog posts in a year.&lt;/em&gt;&lt;/p&gt;</description>
+     </item>
    
      <item>
        <title>The CCC in a documentary</title>
