@@ -6,10 +6,19 @@
    <description>Recent content in Programming on Trust in code</description>
    <generator>Hugo -- gohugo.io</generator>
    <language>en-us</language>
-   <lastBuildDate>Sun, 18 Jul 2021 00:00:00 +0000</lastBuildDate>
+   <lastBuildDate>Sat, 11 Sep 2021 00:00:00 +0000</lastBuildDate>
    
        <atom:link href="/categories/programming/index.xml" rel="self" type="application/rss+xml" />
    
+   
+     <item>
+       <title>Scratch</title>
+       <link>/posts/2021-09-11-scratch/</link>
+       <pubDate>Sat, 11 Sep 2021 00:00:00 +0000</pubDate>
+       
+       <guid>/posts/2021-09-11-scratch/</guid>
+       <description>&lt;p&gt;Vor ein paar Wochen habe ich eine Reihe Programmier-Workshops gegeben, über die mache ich wieder eine kleine Serie.&lt;/p&gt;&lt;p&gt;Los ging es mit Scratch. Der Einstieg mit einer blockbasierten Programmiersprache ist ideal, bei Scratch sieht man die Ergebnisse auch gleich in demselben Browserfenster, das nimmt noch einmal Hürden. Beim Calliope oder App Inventor kommen ja dann externe Geräte ins Spiel, ein Mikro-Controller und das Tablet, da kann man dann gut auf Scratch aufbauen.&lt;/p&gt;&lt;p&gt;Ich zeige immer gern mein &lt;a href=&#34;https://scratch.mit.edu/projects/399677934/&#34;&gt;Unterwasser-Spiel&lt;/a&gt; und es sind im Laufe des Nachmittags ähnliche Spiele entstanden, in den Figuren einander gefangen haben und dabei Punkte gesammelt wurden.&lt;/p&gt;&lt;p&gt;&lt;img src=&#34;/img/scratch.png&#34; alt=&#34;krake&#34;&gt;&lt;/p&gt;&lt;p&gt;Die Vermittlung von Konzepten wie Variablen kann ich noch besser machen. Beim nächsten Mal probiere ich das vermutlich &amp;ldquo;unplugged&amp;rdquo; also mit echten Bechern z.B., weil ich mit meinem Browserfenster und den Folien zum Einstieg schon viel digital zeige und vermittle.&lt;/p&gt;&lt;p&gt;&lt;em&gt;This is day 56 of my &lt;a href=&#34;https://100daystooffload.com/&#34;&gt;#100daystooffload&lt;/a&gt; series, a challenge to write 100 blog posts in a year.&lt;/em&gt;&lt;/p&gt;</description>
+     </item>
    
      <item>
        <title>Bundestagswahl 2021</title>
@@ -17,7 +26,7 @@
        <pubDate>Sat, 28 Aug 2021 00:00:00 +0000</pubDate>
        
        <guid>/posts/2021-08-28-katja/</guid>
-       <description>&lt;p&gt;Gerade findet in Deutschland Wahlkampf statt, zur Bundestagswahl im September. In unserem Wahlkreis in Dresden südlich der Elbe tritt Katja Kipping als Direktkandidatin an. Ihre Konkurent:innen von der SPD, den Grünen und der CDU sind allesamt ziemlich unbekannt und Katja hat gute Chancen, ein gutes Ergebnis einzuholen. Aber kann sie das Direktmandat auch gewinnen?&lt;/p&gt;&lt;p&gt;In solchen Momenten denk ich an das politische System in Amerika. Wir sind hier in Deutschland oft ja sehr überzeugt, dass unser Wahlsystem so viel besser ist als das Amerikanische, ist es ja auch zum Großteil. Aber ein solches gegenaneinander Antreten von progressiven Kandidat:innen geschieht bestimmt deutlich weniger, wenn es eine große progressive Partei gibt, wie die Demokraten in Amerika, die in sich pluralistisch ist.&lt;/p&gt;&lt;p&gt;Ich fand auch die Demokratische Debatte im Vorfeld der letzten Wahlen einzigartig und sehr aufschlussreich. In diesem Kreis wurden die Themen, die mich interessieren, debattiert und das viel konstruktiver als in einem Schlagabtausch politischer Gegner, so wie es typisch in deutschen Talkshows ist.&lt;/p&gt;&lt;p&gt;Ich wünsche Katja, dass sie ganz viele Stimmen gewinnt. Sie ist eine leidenschaftliche Politikerin und ich mag ihre Reden, weil sie schöne und ungewöhnliche Sprachbilder findet.&lt;/p&gt;&lt;p&gt;Katja ist mit vollem Herzen Sozialpolitikerin und besucht die Menschen im Pflegeheim oder im Altenheim und spricht mit ihnen am Stand der LINKEN vor dem Jobcenter. Und sie macht sich dafür stark, dass Menschen mit geringem Einkommen Zugang zu kulturellen Veranstaltungen in der Stadt erhalten.&lt;/p&gt;&lt;p&gt;Also Erststimme im Wahlkreis 159 an Katja Kipping!&lt;/p&gt;&lt;p&gt;&lt;em&gt;This is day 55 of my &lt;a href=&#34;https://100daystooffload.com/&#34;&gt;#100daystooffload&lt;/a&gt; series, a challenge to write 100 blog posts in a year.&lt;/em&gt;&lt;/p&gt;</description>
+       <description>&lt;p&gt;Gerade findet in Deutschland Wahlkampf statt, zur Bundestagswahl im September. In unserem Wahlkreis in Dresden südlich der Elbe tritt Katja Kipping als Direktkandidatin an. Ihre Konkurent:innen von der SPD, den Grünen und der CDU sind allesamt ziemlich unbekannt und Katja hat gute Chancen, ein gutes Ergebnis einzuholen. Aber kann sie das Direktmandat auch gewinnen?&lt;/p&gt;&lt;p&gt;In solchen Momenten denk ich an das politische System in Amerika. Wir sind hier in Deutschland oft überzeugt, dass unser Wahlsystem besser ist als das Amerikanische, ist es ja auch zum Großteil. Aber solch ein gegenaneinander Antreten von progressiven Kandidat:innen geschieht bestimmt deutlich weniger, wenn es eine große progressive Partei gibt, wie die Demokraten in Amerika, die in sich pluralistisch ist.&lt;/p&gt;&lt;p&gt;Ich fand auch die Demokratische Debatte im Vorfeld der letzten Wahlen einzigartig und sehr aufschlussreich. In diesem Kreis wurden die Themen, die mich interessieren, debattiert und das viel konstruktiver als in einem Schlagabtausch politischer Gegner, so wie es typisch in deutschen Talkshows ist.&lt;/p&gt;&lt;p&gt;Ich wünsche Katja, dass sie ganz viele Stimmen gewinnt. Sie ist eine leidenschaftliche Politikerin und ich mag ihre Reden, weil sie schöne und ungewöhnliche Sprachbilder findet.&lt;/p&gt;&lt;p&gt;Katja ist mit vollem Herzen Sozialpolitikerin und besucht die Menschen im Pflegeheim oder im Altenheim und spricht mit ihnen am Stand der LINKEN vor dem Jobcenter. Und sie macht sich dafür stark, dass Menschen mit geringem Einkommen Zugang zu kulturellen Veranstaltungen in der Stadt erhalten.&lt;/p&gt;&lt;p&gt;Also Erststimme im Wahlkreis 159 an Katja Kipping!&lt;/p&gt;&lt;p&gt;&lt;em&gt;This is day 55 of my &lt;a href=&#34;https://100daystooffload.com/&#34;&gt;#100daystooffload&lt;/a&gt; series, a challenge to write 100 blog posts in a year.&lt;/em&gt;&lt;/p&gt;</description>
      </item>
    
      <item>
@@ -504,6 +513,15 @@
        
        <guid>/posts/2021-02-04-first/</guid>
        <description>&lt;p&gt;Willkommen auf meinem Blog! Auf Fosstodon habe ich von der Aktion&lt;a href=&#34;https://fosstodon.org/web/timelines/tag/100daystooffload&#34;&gt;&amp;quot;#100daystooffload&amp;quot;&lt;/a&gt;gelesen. Es geht darum, in einem Jahr 100 Blogartikel zu schreiben.Wenn man es geschafft hat, kann man sich in die &lt;a href=&#34;https://100daystooffload.com/&#34;&gt;Hall of Fame&lt;/a&gt; eintragen lassen.Warum nicht? Mit drei bereits geschriebenen Artikeln mache ich hier mit. Viel Spaßbeim Lesen!&lt;/p&gt;&lt;p&gt;Antje Kazimiers&lt;/p&gt;</description>
+     </item>
+   
+     <item>
+       <title></title>
+       <link>/posts/2021-09-12-app-inventor/</link>
+       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+       
+       <guid>/posts/2021-09-12-app-inventor/</guid>
+       <description></description>
      </item>
    
  </channel>
