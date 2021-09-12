@@ -6,10 +6,19 @@
    <description>Recent content in Programming on Trust in code</description>
    <generator>Hugo -- gohugo.io</generator>
    <language>en-us</language>
-   <lastBuildDate>Sat, 11 Sep 2021 00:00:00 +0000</lastBuildDate>
+   <lastBuildDate>Sun, 12 Sep 2021 00:00:00 +0000</lastBuildDate>
    
        <atom:link href="/categories/programming/index.xml" rel="self" type="application/rss+xml" />
    
+   
+     <item>
+       <title>App Inventor</title>
+       <link>/posts/2021-09-12-app-inventor/</link>
+       <pubDate>Sun, 12 Sep 2021 00:00:00 +0000</pubDate>
+       
+       <guid>/posts/2021-09-12-app-inventor/</guid>
+       <description>&lt;p&gt;Weiter ging es in den Schüler:innen Workshops mit dem App Inventor. Hier kann man es mit blockbasierte Programmierung so weit bringen, sich sinnvolle Anwendungen für ein mobiles Gerät zu bauen.&lt;/p&gt;&lt;p&gt;Also nicht nur lustige kleine Spiele, sondern etwas mit einem Wert, etwas, das z.B. geobasierte Informationen auswertet und auf einer Karte anzeigt.&lt;/p&gt;&lt;p&gt;Interessant finde ich auch die App Inventor Look Extension. Damit kann man mithilfe Maschinelles Lernen und Neuronalen Netzen Gegenstände erkennen, auf die die Handy-Kamera gerichtet ist. Das ist ziemlich nett! In kurzer Zeit hat man sich das Programm zusammengeklickt und kann an der Ausgabe noch ein bißchen rumprogrammieren.&lt;/p&gt;&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;  &lt;iframe src=&#34;https://www.youtube.com/embed/iOeHqRdRSHA&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;&lt;/div&gt;&lt;p&gt;Der App Inventor zeigt, dass blockbasierte Programmierung nicht nur Spielerei ist. Ich glaube, dass man mit dem Ansatz unweigerlich an Grenzen stoßen muss. Sicher benennen kann ich diese Grenzen aber noch nicht.&lt;/p&gt;&lt;p&gt;&lt;em&gt;This is day 57 of my &lt;a href=&#34;https://100daystooffload.com/&#34;&gt;#100daystooffload&lt;/a&gt; series, a challenge to write 100 blog posts in a year.&lt;/em&gt;&lt;/p&gt;</description>
+     </item>
    
      <item>
        <title>Scratch</title>
@@ -98,7 +107,7 @@
        <pubDate>Tue, 29 Jun 2021 00:00:00 +0000</pubDate>
        
        <guid>/posts/2021-06-29-cms/</guid>
-       <description>&lt;p&gt;Eine Weile hatte ja mit Microsoft CRM, mit SharePoint und mit Drupal zu tun. Die Arbeit mit Dynamics CRM hat mir wirklich ziemliche Freude bereitet. Das ist in sich ein rundes Produkt und hat ein paar mächtige Funktionen, die ich erst auf den zweiten Blick entdeckt habe und mit denen wir interessante Dinge gebaut haben, wie die Connections.&lt;/p&gt;&lt;p&gt;Mit CRM lässt es sich auch deswegen so gut arbeiten, weil man das theoretische Handwerkszeug dafür im Studium gelernt hat. Das sind das E-R-Modell und Model-View-Controller. Mit den beiden Informationen ausgestattet und mit einem sicheren Umgang mit prozeduralen Programmiersprachen wie C# und JavaScript kann man ein CRM-Projekt sehr gut meistern.&lt;/p&gt;&lt;p&gt;SharePoint und auch Drupal fand ich viel unübersichtlicher. Manche sagten ja, SharePoint wird CRM irgendwann ersetzen, weil es eigentlich genau dasselbe kann und darüber hinaus noch mehr, aber ich glaube das nicht.&lt;/p&gt;&lt;p&gt;Schauen wir uns Drupal genauer an. Ein Content Type in Drupal entspricht einer Entität in CRM (oder einer Liste in SharePoint). Letztendlich ist alles irgendwie eine Tabelle, wobei man noch einmal genauer drauf schauen sollte, ob dann in der Datenbank eine Liste wirklich in einer eigenen Tabelle abgespeichert wird oder nicht. Bei Drupal und auch bei SharePoint spielt die View Ebene jedoch eine viel größere Rolle als bei CRM. Man müsste sich das noch einmal genau anschauen, aber bei Drupal gab es wirklich viele Module, die irgendwie dazu da waren, verschiedene Views auf denselben Daten zu bauen.&lt;/p&gt;&lt;p&gt;Jedenfalls möchte ich sagen, ich glaube, für alle diesen neueren Content Management Systeme und Webframeworks, meinetwegen auch für AngularJS und ReactJS, wäre es gut, wenn auf der konzeptuellen Ebene ebenso Modelle existieren, die so ausgereift sind wie das E-R-Modell. Ich glaube MVVM Pattern &amp;amp; Co gehen in die richtige Richtung, aber das trifft es nicht ganz wenn man an Drupal denkt. Vielleicht übersehe ich hier ja auch etwas. Aber gäbe es ein solches Modell, dann könnte das, was eigentlich gebaut werden soll, besser verstanden werden und es könnten demzufolge bessere CRMs und Frameworks gebaut bzw. die Existierenden verbessert werden.&lt;/p&gt;&lt;p&gt;&lt;em&gt;This is day 47 of my &lt;a href=&#34;https://100daystooffload.com/&#34;&gt;#100daystooffload&lt;/a&gt; series, a challenge to write 100 blog posts in a year.&lt;/em&gt;&lt;/p&gt;</description>
+       <description>&lt;p&gt;Eine Weile hatte ja mit Microsoft CRM, mit SharePoint und mit Drupal zu tun. Die Arbeit mit Dynamics CRM hat mir wirklich ziemliche Freude bereitet. Das ist in sich ein rundes Produkt und hat ein paar mächtige Funktionen, die ich erst auf den zweiten Blick entdeckt habe und mit denen wir interessante Dinge gebaut haben, wie die Connections.&lt;/p&gt;&lt;p&gt;Mit CRM lässt es sich auch deswegen so gut arbeiten, weil man das theoretische Handwerkszeug dafür im Studium gelernt hat. Das sind das E-R-Modell und Model-View-Controller. Mit den beiden Informationen ausgestattet und mit einem sicheren Umgang mit prozeduralen Programmiersprachen wie C# und JavaScript kann man ein CRM-Projekt sehr gut meistern.&lt;/p&gt;&lt;p&gt;SharePoint und auch Drupal fand ich viel unübersichtlicher. Manche sagten ja, SharePoint wird CRM irgendwann ersetzen, weil es eigentlich genau dasselbe kann und darüber hinaus noch mehr, aber ich glaube das nicht.&lt;/p&gt;&lt;p&gt;Schauen wir uns Drupal genauer an. Ein Content Type in Drupal entspricht einer Entität in CRM (oder einer Liste in SharePoint). Letztendlich ist alles irgendwie eine Tabelle, wobei man noch einmal genauer drauf schauen sollte, ob dann in der Datenbank eine Liste wirklich in einer eigenen Tabelle abgespeichert wird oder nicht. Bei Drupal und auch bei SharePoint spielt die View Ebene jedoch eine viel größere Rolle als bei CRM. Man müsste sich das noch einmal genau anschauen, aber bei Drupal gab es wirklich viele Module, die irgendwie dazu da waren, verschiedene Views auf denselben Daten zu bauen.&lt;/p&gt;&lt;p&gt;Jedenfalls möchte ich sagen, ich glaube, für alle diesen neueren Content Management Systeme und Webframeworks, meinetwegen auch für AngularJS und ReactJS, wäre es gut, wenn auf der konzeptuellen Ebene ebenso Modelle existieren, die so ausgereift sind wie das E-R-Modell. Ich glaube MVVM Pattern &amp;amp; Co gehen in die richtige Richtung, aber das trifft es nicht ganz wenn man an Drupal denkt. Vielleicht übersehe ich hier ja auch etwas. Aber gäbe es ein solches Modell, dann könnte das, was eigentlich gebaut werden soll, besser verstanden werden und es könnten demzufolge bessere CMSe und Frameworks gebaut bzw. die Existierenden verbessert werden.&lt;/p&gt;&lt;p&gt;&lt;em&gt;This is day 47 of my &lt;a href=&#34;https://100daystooffload.com/&#34;&gt;#100daystooffload&lt;/a&gt; series, a challenge to write 100 blog posts in a year.&lt;/em&gt;&lt;/p&gt;</description>
      </item>
    
      <item>
@@ -513,15 +522,6 @@
        
        <guid>/posts/2021-02-04-first/</guid>
        <description>&lt;p&gt;Willkommen auf meinem Blog! Auf Fosstodon habe ich von der Aktion&lt;a href=&#34;https://fosstodon.org/web/timelines/tag/100daystooffload&#34;&gt;&amp;quot;#100daystooffload&amp;quot;&lt;/a&gt;gelesen. Es geht darum, in einem Jahr 100 Blogartikel zu schreiben.Wenn man es geschafft hat, kann man sich in die &lt;a href=&#34;https://100daystooffload.com/&#34;&gt;Hall of Fame&lt;/a&gt; eintragen lassen.Warum nicht? Mit drei bereits geschriebenen Artikeln mache ich hier mit. Viel Spaßbeim Lesen!&lt;/p&gt;&lt;p&gt;Antje Kazimiers&lt;/p&gt;</description>
-     </item>
-   
-     <item>
-       <title></title>
-       <link>/posts/2021-09-12-app-inventor/</link>
-       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-       
-       <guid>/posts/2021-09-12-app-inventor/</guid>
-       <description></description>
      </item>
    
  </channel>
