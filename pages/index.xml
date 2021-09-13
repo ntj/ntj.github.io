@@ -11,6 +11,15 @@
    
    
      <item>
+       <title>CS Academy</title>
+       <link>/posts/2021-09-13-cmu/</link>
+       <pubDate>Mon, 13 Sep 2021 00:00:00 +0000</pubDate>
+       
+       <guid>/posts/2021-09-13-cmu/</guid>
+       <description>&lt;p&gt;Am dritten Tag starteten wir mit der textbasierten Programmierung in Python.&lt;/p&gt;&lt;p&gt;Wir verwenden hierfür die &lt;a href=&#34;https://eu.academy.cs.cmu.edu/&#34;&gt;CS Academy&lt;/a&gt;, die unser Lehrstuhl ins Deutsche übersetzt hat, &lt;a href=&#34;https://tu-dresden.de/ing/informatik/smt/ddi/schulinformatik/eduinf-education_in_informatics/lehr-lern-material/lehr-lern-material-cmu&#34;&gt;Handreichungen&lt;/a&gt;für die Anmeldung haben wir ebenso geschrieben.&lt;/p&gt;&lt;p&gt;Die Bibliothek ist auch offline nutzbar, kann also als Python-Modul in ein Skript eingebunden werden. Obwohl ich das Gefühl hatte, online fällt der Einstieg leichter, offline baut Hürden auf. Das Einüben der algorithmischen Konzepte klappt online wunderbar.&lt;/p&gt;&lt;p&gt;Die Vorteile der Offline-Variante liegen jedoch klar auf der Hand: Unabhängigkeit von einer Internetverbindung, Aufgaben müssen sich nicht an das strikte Korsett des Online-Kurses halten, und Datensparsamkeit.&lt;/p&gt;&lt;p&gt;Die Programmierung offline könnte dann eingebettet sein in die Vermittlung dessen, wie man eigene Programme schreibt und die CMU-Grafikbibliothek mit anderen Python-Modulen kombiniert.&lt;/p&gt;&lt;p&gt;&lt;em&gt;This is day 58 of my &lt;a href=&#34;https://100daystooffload.com/&#34;&gt;#100daystooffload&lt;/a&gt; series, a challenge to write 100 blog posts in a year.&lt;/em&gt;&lt;/p&gt;</description>
+     </item>
+   
+     <item>
        <title>App Inventor</title>
        <link>/posts/2021-09-12-app-inventor/</link>
        <pubDate>Sun, 12 Sep 2021 00:00:00 +0000</pubDate>
