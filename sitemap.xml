@@ -3,27 +3,37 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>/categories/</loc>
+    <lastmod>2021-10-29T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/posts/</loc>
+    <lastmod>2021-10-29T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/social/</loc>
+    <lastmod>2021-10-29T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/posts/2021-10-29-fsfe-women/</loc>
+    <lastmod>2021-10-29T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/</loc>
+    <lastmod>2021-10-29T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/posts/2021-10-25-aphorisms/</loc>
     <lastmod>2021-10-25T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/categories/</loc>
-    <lastmod>2021-10-25T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/categories/language/</loc>
-    <lastmod>2021-10-25T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/posts/</loc>
-    <lastmod>2021-10-25T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/</loc>
     <lastmod>2021-10-25T00:00:00+00:00</lastmod>
   </url>
   
@@ -74,11 +84,6 @@
   
   <url>
     <loc>/posts/2021-10-12-datenspuren/</loc>
-    <lastmod>2021-10-12T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/categories/social/</loc>
     <lastmod>2021-10-12T00:00:00+00:00</lastmod>
   </url>
   
