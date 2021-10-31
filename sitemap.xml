@@ -4,12 +4,27 @@
   
   <url>
     <loc>/categories/</loc>
-    <lastmod>2021-10-29T00:00:00+00:00</lastmod>
+    <lastmod>2021-10-31T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/posts/</loc>
-    <lastmod>2021-10-29T00:00:00+00:00</lastmod>
+    <lastmod>2021-10-31T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/posts/2021-10-31-mental-well-being/</loc>
+    <lastmod>2021-10-31T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/thoughts/</loc>
+    <lastmod>2021-10-31T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/</loc>
+    <lastmod>2021-10-31T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -19,11 +34,6 @@
   
   <url>
     <loc>/posts/2021-10-29-fsfe-women/</loc>
-    <lastmod>2021-10-29T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/</loc>
     <lastmod>2021-10-29T00:00:00+00:00</lastmod>
   </url>
   
@@ -74,11 +84,6 @@
   
   <url>
     <loc>/posts/2021-10-15-solarpunks/</loc>
-    <lastmod>2021-10-15T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/categories/thoughts/</loc>
     <lastmod>2021-10-15T00:00:00+00:00</lastmod>
   </url>
   
