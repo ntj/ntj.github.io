@@ -4,16 +4,31 @@
   
   <url>
     <loc>/categories/</loc>
-    <lastmod>2021-11-06T00:00:00+00:00</lastmod>
+    <lastmod>2021-11-07T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/posts/2021-11-06-printer/</loc>
-    <lastmod>2021-11-06T00:00:00+00:00</lastmod>
+    <loc>/posts/2021-11-07-belonging/</loc>
+    <lastmod>2021-11-07T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/posts/</loc>
+    <lastmod>2021-11-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/</loc>
+    <lastmod>2021-11-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/women/</loc>
+    <lastmod>2021-11-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/posts/2021-11-06-printer/</loc>
     <lastmod>2021-11-06T00:00:00+00:00</lastmod>
   </url>
   
@@ -23,13 +38,13 @@
   </url>
   
   <url>
-    <loc>/</loc>
-    <lastmod>2021-11-06T00:00:00+00:00</lastmod>
+    <loc>/posts/2021-10-31-mental-well-being/</loc>
+    <lastmod>2021-10-31T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/posts/2021-10-31-mental-well-being/</loc>
-    <lastmod>2021-10-31T00:00:00+00:00</lastmod>
+    <loc>/categories/foss/</loc>
+    <lastmod>2021-10-29T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -39,11 +54,6 @@
   
   <url>
     <loc>/posts/2021-10-29-fsfe-women/</loc>
-    <lastmod>2021-10-29T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/categories/women/</loc>
     <lastmod>2021-10-29T00:00:00+00:00</lastmod>
   </url>
   
@@ -218,11 +228,6 @@
   </url>
   
   <url>
-    <loc>/categories/foss/</loc>
-    <lastmod>2021-07-17T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/posts/2021-07-17-clubs/</loc>
     <lastmod>2021-07-17T00:00:00+00:00</lastmod>
   </url>
@@ -274,6 +279,11 @@
   
   <url>
     <loc>/categories/health/</loc>
+    <lastmod>2021-06-08T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/talks/</loc>
     <lastmod>2021-06-08T00:00:00+00:00</lastmod>
   </url>
   

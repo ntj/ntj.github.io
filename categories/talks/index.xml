@@ -1,14 +1,14 @@
 
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
  <channel>
-   <title>Memories on Trust in code</title>
-   <link>/categories/memories/</link>
-   <description>Recent content in Memories on Trust in code</description>
+   <title>Talks on Trust in code</title>
+   <link>/categories/talks/</link>
+   <description>Recent content in Talks on Trust in code</description>
    <generator>Hugo -- gohugo.io</generator>
    <language>en-us</language>
-   <lastBuildDate>Sun, 27 Jun 2021 00:00:00 +0000</lastBuildDate>
+   <lastBuildDate>Tue, 08 Jun 2021 00:00:00 +0000</lastBuildDate>
    
-       <atom:link href="/categories/memories/index.xml" rel="self" type="application/rss+xml" />
+       <atom:link href="/categories/talks/index.xml" rel="self" type="application/rss+xml" />
    
    
      <item>
