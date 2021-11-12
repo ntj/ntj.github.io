@@ -6,10 +6,19 @@
    <description>Recent content on Trust in code</description>
    <generator>Hugo -- gohugo.io</generator>
    <language>en-us</language>
-   <lastBuildDate>Mon, 08 Nov 2021 00:00:00 +0000</lastBuildDate>
+   <lastBuildDate>Fri, 12 Nov 2021 00:00:00 +0000</lastBuildDate>
    
        <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
    
+   
+     <item>
+       <title>Game of Life</title>
+       <link>/posts/2021-11-12-game-of-life/</link>
+       <pubDate>Fri, 12 Nov 2021 00:00:00 +0000</pubDate>
+       
+       <guid>/posts/2021-11-12-game-of-life/</guid>
+       <description>&lt;p&gt;Today I implemented &lt;a href=&#34;https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life&#34;&gt;Game of Life&lt;/a&gt; with the help of the CMU CS Academy graphics library.&lt;/p&gt;&lt;p&gt;One of those things, I can&amp;rsquo;t stop thinking about it, until I get it done.&lt;/p&gt;&lt;p&gt;It works finde for the glider and some of the oscillators but the spaceships don&amp;rsquo;t seem right yet.&lt;/p&gt;&lt;p&gt;&lt;img src=&#34;/img/cmu.gif&#34; alt=&#34;Screenshot&#34;&gt;&lt;img src=&#34;/img/cmu2.gif&#34; alt=&#34;Screenshot&#34;&gt;&lt;/p&gt;&lt;p&gt;It&amp;rsquo;s a powerful library to experiment with algorithms like these, to explore them and create your own environment, rather than just looking at animations found in the net.&lt;/p&gt;&lt;p&gt;&lt;em&gt;This is day 76 of my &lt;a href=&#34;https://100daystooffload.com/&#34;&gt;#100daystooffload&lt;/a&gt; series, a challenge to write 100 blog posts in a year.&lt;/em&gt;&lt;/p&gt;</description>
+     </item>
    
      <item>
        <title>Community</title>
