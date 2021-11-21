@@ -3,22 +3,42 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>/posts/2021-11-21-subscriptions/</loc>
+    <lastmod>2021-11-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/categories/</loc>
+    <lastmod>2021-11-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/media/</loc>
+    <lastmod>2021-11-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/posts/</loc>
+    <lastmod>2021-11-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/thoughts/</loc>
+    <lastmod>2021-11-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/</loc>
+    <lastmod>2021-11-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/en/</loc>
     <lastmod>2021-11-19T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/categories/platforms/</loc>
-    <lastmod>2021-11-19T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/posts/</loc>
-    <lastmod>2021-11-19T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/</loc>
     <lastmod>2021-11-19T00:00:00+00:00</lastmod>
   </url>
   
@@ -64,11 +84,6 @@
   
   <url>
     <loc>/posts/2021-11-06-printer/</loc>
-    <lastmod>2021-11-06T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/categories/thoughts/</loc>
     <lastmod>2021-11-06T00:00:00+00:00</lastmod>
   </url>
   
@@ -220,11 +235,6 @@
   <url>
     <loc>/categories/tools/</loc>
     <lastmod>2021-08-22T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/categories/en/</loc>
-    <lastmod>2021-08-11T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -465,6 +475,11 @@
   <url>
     <loc>/posts/2021-02-26-zeichnen/</loc>
     <lastmod>2021-02-26T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/plattforms/</loc>
+    <lastmod>2021-02-20T20:18:51+01:00</lastmod>
   </url>
   
   <url>
