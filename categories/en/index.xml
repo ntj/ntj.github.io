@@ -12,6 +12,15 @@
    
    
      <item>
+       <title>N-D cubes</title>
+       <link>/posts/2021-11-25-nd-cubes/</link>
+       <pubDate>Thu, 25 Nov 2021 00:00:00 +0000</pubDate>
+       
+       <guid>/posts/2021-11-25-nd-cubes/</guid>
+       <description>&lt;p&gt;Vor einigen Jahren hatte ich mal eine Visualisierung mit &lt;a href=&#34;https://threejs.org&#34;&gt;three.js&lt;/a&gt; gebaut und war ziemlich happy, dass ich das in kurzer Zeit hinbekommen habe.&lt;/p&gt;&lt;p&gt;Ich brauchte sie für eine Präsentation, Präsentationen habe ich damals bereits mit reveal.js erstellt. Ich fand den Gedanken spannend, dass ich die Visualisierung in reveal.js hätte einbinden können und sie damit aus dem Foliensatz heraus interaktiv bewegen hätte können.&lt;/p&gt;&lt;p&gt;Das habe ich dann nicht mehr hinbekommen, dafür fehlte mir die Zeit. Leider kann ich auch den Quellcode der Visualisierung nicht mehr finden.&lt;/p&gt;&lt;p&gt;Aber das Bild, welches ich dann eingebunden hatte, das habe ich noch!&lt;/p&gt;&lt;p&gt;&lt;img src=&#34;/img/viso.png&#34; alt=&#34;tst&#34;&gt;&lt;/p&gt;&lt;p&gt;Das Feedback war mäßig, die Visualisierung offensichtlich nicht gut genug. Aber woran erkennt man an dem Bild, dass ich es mit three.js erstellt habe? Three.js ist ziemlich intuitiv, trotzdem war es mein erstes Projekt mit der Bibliothek. Und Zeit spielt bei Projekten wie diesen auch eine Rolle.&lt;/p&gt;&lt;p&gt;&lt;em&gt;This is day 80 of my &lt;a href=&#34;https://100daystooffload.com/&#34;&gt;#100daystooffload&lt;/a&gt; series, a challenge to write 100 blog posts in a year.&lt;/em&gt;&lt;/p&gt;</description>
+     </item>
+   
+     <item>
        <title>Abonnements</title>
        <link>/posts/2021-11-21-subscriptions/</link>
        <pubDate>Sun, 21 Nov 2021 00:00:00 +0000</pubDate>
