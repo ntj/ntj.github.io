@@ -6,10 +6,19 @@
    <description>Recent content on Trust in code</description>
    <generator>Hugo -- gohugo.io</generator>
    <language>en-us</language>
-   <lastBuildDate>Fri, 26 Nov 2021 00:00:00 +0000</lastBuildDate>
+   <lastBuildDate>Wed, 01 Dec 2021 00:00:00 +0000</lastBuildDate>
    
        <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
    
+   
+     <item>
+       <title>Ein Buch über freie Software</title>
+       <link>/posts/2021-12-01-book/</link>
+       <pubDate>Wed, 01 Dec 2021 00:00:00 +0000</pubDate>
+       
+       <guid>/posts/2021-12-01-book/</guid>
+       <description>&lt;p&gt;Gestern habe ich ein Buch geschickt bekommen für mein Engagement, es heißt &amp;ldquo;Ada &amp;amp; Zangemann - ein Märchen über Software, Skateboards und Himbeereis&amp;rdquo; und ist ein Kinderbuch von Matthias Kirschner und Sandra Brandstätter.&lt;/p&gt;&lt;p&gt;Ich mag, wie selbstverständlich Programmieren in die Geschichte eingebaut wurde. Andere spielen mit Bauklötzen, Ada bastelt sich kleine Programme und verändert die Dinge, die sie umgeben.&lt;/p&gt;&lt;p&gt;Durch Bücher wie dieses kann etwas selbstverständlich werden, was vor Jahren noch sehr nerdig war und es bis heute ist.&lt;/p&gt;&lt;p&gt;&lt;em&gt;This is day 82 of my &lt;a href=&#34;https://100daystooffload.com/&#34;&gt;#100daystooffload&lt;/a&gt; series, a challenge to write 100 blog posts in a year.&lt;/em&gt;&lt;/p&gt;</description>
+     </item>
    
      <item>
        <title>Live coding</title>
@@ -17,7 +26,7 @@
        <pubDate>Fri, 26 Nov 2021 00:00:00 +0000</pubDate>
        
        <guid>/posts/2021-11-26-life-coding/</guid>
-       <description>&lt;p&gt;At OSCON 2018 I saw two ladies I found really impressing. They both held a live coding session, one of them even on a main track! They both had so much fun while coding, although a whole audience was watching. They made mistakes, they fixed it, talked the whole time while joking.&lt;/p&gt;&lt;p&gt;I did not see something similar before and usually can identify better with women than men, so felt encouraged and thought, would I be able to do the same?&lt;/p&gt;&lt;p&gt;The session where&lt;/p&gt;&lt;p&gt;&lt;a href=&#34;https://conferences.oreilly.com/oscon/oscon-or-2018/public/schedule/detail/67855.html&#34;&gt;For the love of plants, starring Tessel and React&lt;/a&gt;&lt;br&gt;by Tara Z. Manicsic&lt;/p&gt;&lt;p&gt;and&lt;/p&gt;&lt;p&gt;&lt;a href=&#34;https://conferences.oreilly.com/oscon/oscon-or-2018/public/schedule/detail/70443.html&#34;&gt;Live coding: OSCON edition&lt;/a&gt;&lt;br&gt;by Suz Hinton&lt;/p&gt;&lt;p&gt;Live coding is truly something one can practice. I do it once in a while and feel more and more comfortable.&lt;/p&gt;&lt;p&gt;I think I&amp;rsquo;m more relaxed if people watch my screen on a big monitor and sit or stand in front of me or if I share my screen online. I do not like someone standing behind me, staring over my shoulders. But this is rarely happening now, luckily..&lt;/p&gt;&lt;p&gt;&lt;em&gt;This is day 81 of my &lt;a href=&#34;https://100daystooffload.com/&#34;&gt;#100daystooffload&lt;/a&gt; series, a challenge to write 100 blog posts in a year.&lt;/em&gt;&lt;/p&gt;</description>
+       <description>&lt;p&gt;At OSCON 2018 I saw two ladies I found really impressing. They both held a live coding session, one of them even on a main track! They had much fun while coding, although a whole audience was watching. They made mistakes, they fixed it, talked the whole time while joking.&lt;/p&gt;&lt;p&gt;I did not see something similar before and usually can identify better with women than men, so felt encouraged and thought, would I be able to do the same?&lt;/p&gt;&lt;p&gt;The sessions where&lt;/p&gt;&lt;p&gt;&lt;a href=&#34;https://conferences.oreilly.com/oscon/oscon-or-2018/public/schedule/detail/67855.html&#34;&gt;For the love of plants, starring Tessel and React&lt;/a&gt;&lt;br&gt;by Tara Z. Manicsic&lt;/p&gt;&lt;p&gt;and&lt;/p&gt;&lt;p&gt;&lt;a href=&#34;https://conferences.oreilly.com/oscon/oscon-or-2018/public/schedule/detail/70443.html&#34;&gt;Live coding: OSCON edition&lt;/a&gt;&lt;br&gt;by Suz Hinton&lt;/p&gt;&lt;p&gt;Live coding is something one can practice. I do it once in a while and feel more and more comfortable.&lt;/p&gt;&lt;p&gt;I think I&amp;rsquo;m more relaxed if people watch my screen on a big monitor and sit or stand in front of me or if I share my screen online. I do not like someone standing behind me, staring over my shoulders. But this is rarely happening now, luckily..&lt;/p&gt;&lt;p&gt;&lt;em&gt;This is day 81 of my &lt;a href=&#34;https://100daystooffload.com/&#34;&gt;#100daystooffload&lt;/a&gt; series, a challenge to write 100 blog posts in a year.&lt;/em&gt;&lt;/p&gt;</description>
      </item>
    
      <item>
@@ -26,7 +35,7 @@
        <pubDate>Thu, 25 Nov 2021 00:00:00 +0000</pubDate>
        
        <guid>/posts/2021-11-25-nd-cubes/</guid>
-       <description>&lt;p&gt;Vor einigen Jahren hatte ich mal eine Visualisierung mit &lt;a href=&#34;https://threejs.org&#34;&gt;three.js&lt;/a&gt; gebaut und war ziemlich happy, dass ich das in kurzer Zeit hinbekommen habe.&lt;/p&gt;&lt;p&gt;Ich brauchte sie für eine Präsentation, Präsentationen habe ich damals bereits mit reveal.js erstellt. Ich fand den Gedanken spannend, dass ich die Visualisierung in reveal.js hätte einbinden können und sie damit aus dem Foliensatz heraus interaktiv bewegen hätte können.&lt;/p&gt;&lt;p&gt;Das habe ich dann nicht mehr hinbekommen, dafür fehlte mir die Zeit. Leider kann ich auch den Quellcode der Visualisierung nicht mehr finden.&lt;/p&gt;&lt;p&gt;Aber das Bild, welches ich dann eingebunden hatte, das habe ich noch!&lt;/p&gt;&lt;p&gt;&lt;img src=&#34;/img/viso.png&#34; alt=&#34;tst&#34;&gt;&lt;/p&gt;&lt;p&gt;Das Feedback war mäßig, die Visualisierung offensichtlich nicht gut genug. Aber woran erkennt man an dem Bild, dass ich es mit three.js erstellt habe? Three.js ist ziemlich intuitiv, trotzdem war es mein erstes Projekt mit der Bibliothek. Und Zeit spielt bei Projekten wie diesen auch eine Rolle.&lt;/p&gt;&lt;p&gt;&lt;em&gt;This is day 80 of my &lt;a href=&#34;https://100daystooffload.com/&#34;&gt;#100daystooffload&lt;/a&gt; series, a challenge to write 100 blog posts in a year.&lt;/em&gt;&lt;/p&gt;</description>
+       <description>&lt;p&gt;Vor einigen Jahren hatte ich mal eine Visualisierung mit &lt;a href=&#34;https://threejs.org&#34;&gt;three.js&lt;/a&gt; gebaut und war ziemlich happy, dass ich das in kurzer Zeit hinbekommen habe.&lt;/p&gt;&lt;p&gt;Ich brauchte sie für eine Präsentation, Präsentationen habe ich damals bereits mit reveal.js erstellt. Ich fand den Gedanken spannend, dass ich die Visualisierung in reveal.js hätte einbinden können und sie damit aus dem Foliensatz heraus interaktiv bewegen hätte können.&lt;/p&gt;&lt;p&gt;Das habe ich dann nicht mehr hinbekommen, dafür fehlte mir die Zeit. Leider kann ich auch den Quellcode nicht mehr finden.&lt;/p&gt;&lt;p&gt;Aber das Bild, welches ich dann eingebunden hatte, das habe ich noch!&lt;/p&gt;&lt;p&gt;&lt;img src=&#34;/img/viso.png&#34; alt=&#34;tst&#34;&gt;&lt;/p&gt;&lt;p&gt;Das Feedback war mäßig, die Visualisierung offensichtlich nicht gut genug. Aber woran erkennt man an dem Bild, dass ich es mit three.js erstellt habe? Three.js ist ziemlich intuitiv, trotzdem war es mein erstes Projekt mit der Bibliothek. Und Zeit spielt bei Projekten wie diesen auch eine Rolle.&lt;/p&gt;&lt;p&gt;&lt;em&gt;This is day 80 of my &lt;a href=&#34;https://100daystooffload.com/&#34;&gt;#100daystooffload&lt;/a&gt; series, a challenge to write 100 blog posts in a year.&lt;/em&gt;&lt;/p&gt;</description>
      </item>
    
      <item>
