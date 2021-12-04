@@ -3,27 +3,37 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>/categories/</loc>
+    <lastmod>2021-12-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/posts/2021-12-04-mac/</loc>
+    <lastmod>2021-12-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/posts/</loc>
+    <lastmod>2021-12-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/tech/</loc>
+    <lastmod>2021-12-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/</loc>
+    <lastmod>2021-12-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/posts/2021-12-03-subscribe2/</loc>
     <lastmod>2021-12-03T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/categories/</loc>
-    <lastmod>2021-12-03T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/categories/media/</loc>
-    <lastmod>2021-12-03T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/posts/</loc>
-    <lastmod>2021-12-03T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/</loc>
     <lastmod>2021-12-03T00:00:00+00:00</lastmod>
   </url>
   
