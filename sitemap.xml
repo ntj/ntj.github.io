@@ -3,27 +3,47 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/posts/2021-12-05-15/</loc>
-    <lastmod>2021-12-05T00:00:00+00:00</lastmod>
+    <loc>/categories/</loc>
+    <lastmod>2021-12-12T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/categories/</loc>
-    <lastmod>2021-12-05T00:00:00+00:00</lastmod>
+    <loc>/posts/2021-12-12-sick/</loc>
+    <lastmod>2021-12-12T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/posts/</loc>
-    <lastmod>2021-12-05T00:00:00+00:00</lastmod>
+    <lastmod>2021-12-12T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/categories/thoughts/</loc>
-    <lastmod>2021-12-05T00:00:00+00:00</lastmod>
+    <lastmod>2021-12-12T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/</loc>
+    <lastmod>2021-12-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/posts/2021-12-11-fake-news/</loc>
+    <lastmod>2021-12-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/posts/2021-12-10-false-friends/</loc>
+    <lastmod>2021-12-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/language/</loc>
+    <lastmod>2021-12-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/posts/2021-12-05-15/</loc>
     <lastmod>2021-12-05T00:00:00+00:00</lastmod>
   </url>
   
@@ -154,11 +174,6 @@
   
   <url>
     <loc>/posts/2021-10-25-aphorisms/</loc>
-    <lastmod>2021-10-25T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/categories/language/</loc>
     <lastmod>2021-10-25T00:00:00+00:00</lastmod>
   </url>
   
