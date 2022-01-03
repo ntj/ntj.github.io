@@ -3,27 +3,42 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>/categories/</loc>
+    <lastmod>2022-01-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/posts/2022-01-03-fediverse/</loc>
+    <lastmod>2022-01-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/posts/</loc>
+    <lastmod>2022-01-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/social/</loc>
+    <lastmod>2022-01-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/software/</loc>
+    <lastmod>2022-01-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/</loc>
+    <lastmod>2022-01-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/categories/books/</loc>
     <lastmod>2022-01-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/categories/</loc>
-    <lastmod>2022-01-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/posts/</loc>
-    <lastmod>2022-01-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/</loc>
-    <lastmod>2022-01-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/posts/2022-01-01-wissenschaft/</loc>
+    <loc>/posts/2022-01-02-wissenschaft/</loc>
     <lastmod>2022-01-02T00:00:00+00:00</lastmod>
   </url>
   
@@ -54,11 +69,6 @@
   
   <url>
     <loc>/posts/2021-12-20-app/</loc>
-    <lastmod>2021-12-20T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/categories/software/</loc>
     <lastmod>2021-12-20T00:00:00+00:00</lastmod>
   </url>
   
@@ -220,11 +230,6 @@
   <url>
     <loc>/posts/2021-10-31-mental-well-being/</loc>
     <lastmod>2021-10-31T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/categories/social/</loc>
-    <lastmod>2021-10-29T00:00:00+00:00</lastmod>
   </url>
   
   <url>
