@@ -6,10 +6,19 @@
    <description>Recent content in Categories on Trust in code</description>
    <generator>Hugo -- gohugo.io</generator>
    <language>en-us</language>
-   <lastBuildDate>Mon, 03 Jan 2022 00:00:00 +0000</lastBuildDate>
+   <lastBuildDate>Fri, 07 Jan 2022 00:00:00 +0000</lastBuildDate>
    
        <atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
    
+   
+     <item>
+       <title>Poetry, yay!</title>
+       <link>/posts/2022-01-07-poetry/</link>
+       <pubDate>Fri, 07 Jan 2022 00:00:00 +0000</pubDate>
+       
+       <guid>/posts/2022-01-07-poetry/</guid>
+       <description>&lt;p&gt;Some fascincating aspect of CS comes from the need to name new stuff. Languages, frameworks, concepts.&lt;/p&gt;&lt;p&gt;It striked me again when I first head about &lt;a href=&#34;https://python-poetry.org/&#34;&gt;poetry&lt;/a&gt;. So funny to name a tool like this, very appealing. My new package manager in Arch Linux is called yay &amp;ndash; same thing here.&lt;/p&gt;&lt;p&gt;Names often relate to something or someone. Python to Monty Python and Django to the guitarist Django Reinhard. I believe inventors and creators come up with names like these to show their appreciation and to create little worlds they enjoy being in.&lt;/p&gt;&lt;p&gt;If I were to name a language or a framework, what would be heroes I would refer to?&lt;/p&gt;&lt;p&gt;&lt;em&gt;This is day 98 of my &lt;a href=&#34;https://100daystooffload.com/&#34;&gt;#100daystooffload&lt;/a&gt; series, a challenge to write 100 blog posts within the time of a year.&lt;/em&gt;&lt;/p&gt;</description>
+     </item>
    
      <item>
        <title>Moving accounts in the Fediverse</title>
